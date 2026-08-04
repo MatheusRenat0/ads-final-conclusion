@@ -1,2 +1,15 @@
-# ads-final-conclusion
-Academic repository containing notes, exercises, projects and documentation from my final semester in Analysis and Systems Development.
+# ADS • 4º Semestre
+
+> Documentação completa do meu último semestre em Análise e Desenvolvimento de Sistemas.
+
+##  Disciplinas
+
+| Disciplina |
+|-----------------------|
+| Programação de Banco de Dados | 
+
+---
+
+## Objetivo
+
+Documentar todas as aulas, exercícios, projetos e aprendizados desenvolvidos durante o último semestre da graduação.
