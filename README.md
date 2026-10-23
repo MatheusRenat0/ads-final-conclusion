@@ -35,6 +35,7 @@ O objetivo é centralizar toda a documentação acadêmica produzida ao longo do
 |------------|------------|
 | Programação de Banco de Dados | Modelagem de dados, SQL, consultas, procedures e manipulação de bancos de dados. |
 | Desenvolvimento Mobile | Desenvolvimento de aplicações móveis, interfaces e conceitos de usabilidade. |
+| Gerenciamento de Projetos Ágil | Fundamentos de agilidade, Scrum, Kanban, planejamento e acompanhamento do trabalho. |
 
 ---
 
@@ -44,6 +45,14 @@ O objetivo é centralizar toda a documentação acadêmica produzida ao longo do
 ads-final-conclusion
 │
 ├── assets
+│
+├── gerenciamento-de-projetos-agil
+│   ├── README.md
+│   └── aulas
+│       └── 01-fundamentos-agilidade-scrum-kanban
+│           ├── README.md
+│           ├── anotacoes.md
+│           └── resumo-aula.md
 │
 ├── desenvolvimento-mobile
 │   ├── plano-de-ensino.md
