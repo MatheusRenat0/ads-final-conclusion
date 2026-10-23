@@ -1,4 +1,4 @@
-# Aula 01 — Fundamentos da Agilidade, Scrum e Kanban
+# Referência — Fundamentos da Agilidade, Scrum e Kanban
 
 ## Objetivo
 

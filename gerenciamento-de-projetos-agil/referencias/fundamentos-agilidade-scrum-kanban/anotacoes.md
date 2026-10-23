@@ -1,4 +1,4 @@
-# Anotações — Fundamentos da Agilidade, Scrum e Kanban
+# Anotações de referência — Fundamentos da Agilidade, Scrum e Kanban
 
 ## 1. O que significa gerenciar um projeto de forma ágil
 

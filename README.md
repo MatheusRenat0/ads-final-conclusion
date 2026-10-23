@@ -49,10 +49,16 @@ ads-final-conclusion
 ├── gerenciamento-de-projetos-agil
 │   ├── README.md
 │   └── aulas
-│       └── 01-fundamentos-agilidade-scrum-kanban
+│       ├── 01-gestao-servicos-ti
+│       ├── 02-modelo-itil4-svs
+│       ├── 03-cadeia-valor-itil4
+│       ├── 04-aplicacao-pratica-pim-itil4
+│       └── 05-engenharia-software-prompts
 │           ├── README.md
 │           ├── anotacoes.md
 │           └── resumo-aula.md
+│   └── referencias
+│       └── fundamentos-agilidade-scrum-kanban
 │
 ├── desenvolvimento-mobile
 │   ├── plano-de-ensino.md
