@@ -108,6 +108,23 @@ A gestão de riscos permanece ativa. Registre risco, probabilidade, impacto, res
 6. Por que velocidade ou número de tarefas não deve ser usada isoladamente para avaliar pessoas?
 7. Como uma equipe responde a mudança mantendo qualidade e transparência?
 
+## 10. Conexão com os slides enviados
+
+O ZIP fornecido reúne apresentações de **Gestão de Serviços de TI e ITIL 4**. Elas não definem o conteúdo oficial desta disciplina, mas apresentam situações que ajudam a relacionar gerenciamento de projetos ágil a gestão de produto e serviço. ITIL trata de gestão de serviços; valores e práticas ágeis orientam outra dimensão do trabalho. Uma organização pode combiná-los sem confundir seus objetivos.
+
+| Material e referência | Conceito do slide | Aplicação ao gerenciamento ágil de projetos |
+|---|---|---|
+| `Aula1_Gestao_TI.pptx`, slides 5–10 | Serviço, produto, stakeholders, valor cocriado e dimensões de análise | Ao formular objetivo de produto, identifique usuários e outros stakeholders, o resultado esperado e como verificar valor. |
+| `Aula1_Gestao_TI.pptx`, slides 17–20 | Impacto de negócio, visão de valor e métricas | Relacione métricas de atividade e técnicas a resultados do usuário. Uma equipe pode concluir itens sem resolver a necessidade que motivou o projeto. |
+| `Aula1_Gestao_TI.pptx`, slides 23–24 | Canvas do Serviço | Use as perguntas de usuário, resultado, utilidade, garantia, custo, risco e métrica durante descoberta e planejamento do produto. |
+| `Aula2_ITIL4.pptx` e `Aula2_ITIL4.pdf`, slides/páginas 6, 8 e 15–20 | ITIL integra Agile, foco em valor, iteração e feedback | Reforce que uma Sprint, protótipo ou entrega pequena serve para aprender e decidir o próximo passo. O princípio “progrida iterativamente” dialoga com valores ágeis, mas não transforma ITIL em framework ágil. |
+| `Aula3_ITIL4.pptx` e `Aula3_ITIL4.pdf`, slides/páginas 15–29 | Fluxo de valor, gargalos, retrabalho, métricas e melhoria | Use o quadro Kanban para tornar o fluxo visível; revise esperas, handoffs e bloqueios. Priorize melhorias que beneficiem o fluxo completo e o resultado para o usuário. |
+| `Aula_Pratica_PIM_ITIL4.pptx`, slides 6–15 | PIM, produto e serviço, Canvas, riscos, métricas e defesa das decisões | Aplique o estudo de caso desta aula ao PIM: defina um resultado, escolha um incremento inicial, valide hipóteses com usuários e explique prioridades, riscos e métricas. O mapa da Cadeia de Valor pode complementar a conversa sobre operação e suporte. |
+
+### Exemplo integrado para o PIM
+
+Considere um aplicativo acadêmico para consultar avaliações. O Canvas dos slides de Gestão de Serviços ajuda a perguntar quem usa o serviço e que resultado procura. O grupo pode selecionar uma fatia simples para um Sprint, obter feedback sobre a consulta do calendário e reordenar o backlog. O mapa da Cadeia de Valor dos slides ITIL complementa a análise perguntando como a solução será construída, disponibilizada, apoiada e melhorada. A cadeia ITIL não precisa corresponder à sequência de eventos do Scrum nem às colunas de um quadro Kanban.
+
 ## Referências
 
 - BECK, Kent et al. [Manifesto para Desenvolvimento Ágil de Software](https://agilemanifesto.org/iso/ptbr/manifesto.html). 2001.
