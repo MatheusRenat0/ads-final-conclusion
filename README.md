@@ -36,6 +36,7 @@ O objetivo é centralizar toda a documentação acadêmica produzida ao longo do
 | Programação de Banco de Dados | Modelagem de dados, SQL, consultas, procedures e manipulação de bancos de dados. |
 | Desenvolvimento Mobile | Desenvolvimento de aplicações móveis, interfaces e conceitos de usabilidade. |
 | Gerenciamento de Projetos Ágil | Fundamentos de agilidade, Scrum, Kanban, planejamento e acompanhamento do trabalho. |
+| Empreendedorismo em TI | Administração, estratégia, oportunidades de negócio, plano de negócios e planejamento empresarial. |
 
 ---
 
@@ -60,6 +61,15 @@ ads-final-conclusion
 │           └── resumo-aula.md
 │   └── referencias
 │       └── fundamentos-agilidade-scrum-kanban
+│
+├── empreendedorismo-em-ti
+│   ├── plano-de-ensino.md
+│   ├── README.md
+│   └── aulas
+│       ├── 01-administracao-estrategia-ti
+│       ├── 02-fundamentos-empreendedorismo-economia
+│       ├── 03-plano-negocios-oportunidades-produtos
+│       └── 04-planejamento-operacional-financeiro-marketing-legal
 │
 ├── desenvolvimento-mobile
 │   ├── plano-de-ensino.md
