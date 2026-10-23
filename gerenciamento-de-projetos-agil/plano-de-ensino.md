@@ -38,25 +38,6 @@ Compreender e aplicar práticas de gerenciamento adaptativo a projetos e serviç
 
 Os materiais indicam aulas expositivas com discussão de situações-problema, estudo de casos de serviços digitais, atividade prática em grupo aplicada ao PIM, mapeamento de fluxo de valor e apresentação/defesa das decisões. A aula de prompts trabalha com etapas encadeadas, documentos de entrada e revisão humana das saídas antes de utilizá-las na etapa seguinte.
 
-## Avaliação e evidências de aprendizagem
-
-Os arquivos não especificam a composição ou os pesos da avaliação geral da disciplina. A apresentação da atividade prática do PIM propõe uma rubrica de 10 pontos, que deve ser entendida como sugestão daquela atividade, não como regra geral da disciplina:
-
-| Critério da atividade prática | Pontuação sugerida |
-|---|---:|
-| Produto e serviço | 1,0 |
-| Cliente, usuário e stakeholders | 1,0 |
-| Resultado e valor | 1,0 |
-| Utilidade e garantia | 1,0 |
-| Riscos e métricas | 1,0 |
-| Aplicação do SVS | 1,0 |
-| Princípios orientadores | 1,0 |
-| Fluxo da Cadeia de Valor | 1,5 |
-| Gargalos e melhorias | 0,5 |
-| Defesa das decisões | 1,0 |
-
-As evidências propostas incluem Canvas do Serviço, mapa de fluxo, análise de risco, métricas justificadas, resposta a uma situação inesperada e defesa do raciocínio. Para o trabalho com prompts, podem ser avaliados os artefatos produzidos, a rastreabilidade e a distinção entre fatos, propostas, pendências e resultados efetivamente verificados.
-
 ## Recursos didáticos
 
 - Apresentações e PDFs de Gestão de Serviços de TI e ITIL 4 fornecidos pelo estudante.
@@ -72,9 +53,3 @@ As evidências propostas incluem Canvas do Serviço, mapa de fluxo, análise de 
 - AXELOS. *ITIL Foundation: ITIL 4 Edition*. London: TSO, 2019. Referência indicada nas apresentações de ITIL 4.
 - `Aula1_Gestao_TI.pptx`, `Aula2_ITIL4.pptx`, `Aula2_ITIL4.pdf`, `Aula3_ITIL4.pptx`, `Aula3_ITIL4.pdf` e `Aula_Pratica_PIM_ITIL4.pptx`, arquivos fornecidos pelo estudante.
 - `Prompts_Engenharia_Software_IEEE.doc`, documento de aula fornecido pelo estudante. O documento cita ISO/IEC/IEEE 29148, 12207, 42010 e 29119-2; consultar as edições aplicáveis antes de alegar conformidade normativa.
-
-## Informações não localizadas nos materiais
-
-- Carga horária e calendário de aulas.
-- Critérios e pesos oficiais da avaliação geral.
-- Bibliografia institucional completa da disciplina.
