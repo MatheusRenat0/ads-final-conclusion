@@ -48,6 +48,7 @@ ads-final-conclusion
 │
 ├── gerenciamento-de-projetos-agil
 │   ├── README.md
+│   ├── plano-de-ensino.md
 │   └── aulas
 │       ├── 01-gestao-servicos-ti
 │       ├── 02-modelo-itil4-svs
