@@ -1,7 +1,5 @@
 # Resumo — Funções
 
-> Síntese de estudo complementar; sem registro de que o conteúdo tenha sido ministrado.
-
 - Stored function retorna um valor e pode aparecer em expressões SQL.
 - Declare o tipo em `RETURNS` e devolva valor com `RETURN`.
 - Características como `DETERMINISTIC` e `NO SQL` precisam ser verdadeiras.

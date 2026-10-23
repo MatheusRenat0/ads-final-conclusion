@@ -1,7 +1,5 @@
 # Anotações de estudo — Transações e Concorrência
 
-> Material complementar alinhado ao plano de ensino. Não constitui registro de aula ministrada.
-
 ## ACID
 
 - **Atomicidade:** operações da transação são aplicadas integralmente ou desfeitas.

@@ -1,7 +1,5 @@
 # Anotações de estudo — Otimização de Consultas
 
-> Material complementar alinhado ao plano de ensino. Não constitui registro de aula ministrada.
-
 ## Plano de execução
 
 `EXPLAIN` mostra como o otimizador pretende executar uma consulta: tabelas acessadas, índices considerados, estimativas de linhas e tipo de acesso. Em versões recentes do MySQL, `EXPLAIN ANALYZE` executa a consulta e informa tempos e linhas observadas; use cautela, pois há execução real.

@@ -1,7 +1,5 @@
 # Anotações de estudo — Visões (Views)
 
-> Material complementar alinhado ao plano de ensino. Não constitui registro de aula ministrada.
-
 ## Conceito e usos
 
 Uma `VIEW` nomeia uma consulta para facilitar reutilização, reduzir repetição e limitar as colunas expostas a determinados usuários. A view não substitui modelagem, índices nem controle de acesso.

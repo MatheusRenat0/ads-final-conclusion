@@ -1,7 +1,5 @@
 # Anotações de estudo — Gatilhos (Triggers)
 
-> Material complementar alinhado ao plano de ensino. Não constitui registro de aula ministrada.
-
 ## Momento e evento
 
 O MySQL oferece triggers `BEFORE` e `AFTER` para `INSERT`, `UPDATE` e `DELETE`. Cada linha afetada dispara a rotina; não há trigger por instrução que rode uma única vez para um lote inteiro.

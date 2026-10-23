@@ -1,7 +1,5 @@
 # Resumo — Procedures
 
-> Síntese de estudo complementar; sem registro de que o conteúdo tenha sido ministrado.
-
 - Procedures são chamadas explicitamente com `CALL`.
 - `IN`, `OUT` e `INOUT` definem a direção dos parâmetros.
 - `SELECT ... INTO` pode atribuir resultado a variável local ou parâmetro.

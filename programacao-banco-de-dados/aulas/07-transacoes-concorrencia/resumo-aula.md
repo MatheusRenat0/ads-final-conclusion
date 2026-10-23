@@ -1,7 +1,5 @@
 # Resumo — Transações e Concorrência
 
-> Síntese de estudo complementar; sem registro de que o conteúdo tenha sido ministrado.
-
 - Transações agrupam operações e permitem confirmação ou reversão.
 - InnoDB é necessário para as garantias transacionais usuais no MySQL.
 - ACID resume propriedades importantes das transações.

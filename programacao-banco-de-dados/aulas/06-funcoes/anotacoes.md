@@ -1,7 +1,5 @@
 # Anotações de estudo — Funções
 
-> Material complementar alinhado ao plano de ensino. Não constitui registro de aula ministrada.
-
 ## Sintaxe e uso
 
 ```sql

@@ -1,6 +1,4 @@
-# Material complementar — Gatilhos (Triggers)
-
-> Conteúdo de estudo elaborado a partir do plano de ensino. Os materiais disponíveis não confirmam data nem realização de aula sobre este tema.
+# Aula 04 — Gatilhos (Triggers)
 
 ## Objetivo
 

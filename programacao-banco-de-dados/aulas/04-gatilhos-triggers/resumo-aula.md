@@ -1,7 +1,5 @@
 # Resumo — Gatilhos (Triggers)
 
-> Síntese de estudo complementar; sem registro de que o conteúdo tenha sido ministrado.
-
 - Triggers são executados automaticamente por linha em INSERT, UPDATE ou DELETE.
 - MySQL oferece BEFORE e AFTER.
 - `NEW` e `OLD` representam valores novos e antigos conforme o evento.

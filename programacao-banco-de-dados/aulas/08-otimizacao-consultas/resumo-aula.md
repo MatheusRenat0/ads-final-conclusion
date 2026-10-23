@@ -1,7 +1,5 @@
 # Resumo — Otimização de Consultas
 
-> Síntese de estudo complementar; sem registro de que o conteúdo tenha sido ministrado.
-
 - Use `EXPLAIN` para entender o plano estimado.
 - `EXPLAIN ANALYZE` executa a consulta e deve ser usado conscientemente.
 - Índices ajudam leituras específicas, mas custam espaço e escrita.

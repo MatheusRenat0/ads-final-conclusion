@@ -1,6 +1,4 @@
-# Material complementar — Transações e Concorrência
-
-> Conteúdo de estudo elaborado a partir do plano de ensino. Os materiais disponíveis não confirmam data nem realização de aula sobre este tema.
+# Aula 07 — Transações e Concorrência
 
 ## Objetivo
 

@@ -1,7 +1,5 @@
 # Anotações de estudo — Procedures
 
-> Material complementar alinhado ao plano de ensino. Não constitui registro de aula ministrada.
-
 ## Parâmetros e chamada
 
 - `IN`: entrada; padrão quando o modo é omitido.
