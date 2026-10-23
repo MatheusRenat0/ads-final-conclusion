@@ -1,5 +1,7 @@
 # Resumo da Aula 02 — Restrições e Junções
 
+> **Nota de escopo:** o plano lista visões, gatilhos, procedures e funções como conteúdos da disciplina, mas os materiais disponíveis não confirmam que tenham sido abordados nesta aula. Eles não são tratados aqui como conteúdo ministrado.
+
 ## 1. Restrições
 
 As restrições são regras aplicadas às estruturas e aos dados de um banco de dados. Seu objetivo é garantir a precisão, consistência e confiabilidade das informações armazenadas.
@@ -10,12 +12,6 @@ Durante a aula foram apresentados os seguintes conceitos:
 * **Domínio (valores)**
 * **Referencial (FK)**
 * **Constraints**
-* **Visões**
-* **Gatilhos**
-* **Procedures**
-* **Functions**
-
-Os últimos itens foram apresentados como conceitos avançados relacionados ao banco de dados.
 
 ---
 
