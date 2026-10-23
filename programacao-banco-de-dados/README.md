@@ -47,3 +47,20 @@ programacao-banco-de-dados/
 ```
 
 ---
+
+## Aulas e materiais de estudo
+
+As aulas 01 e 02 reúnem os registros disponíveis. Os materiais das aulas 03 a 08 foram elaborados como **conteúdo complementar baseado no plano de ensino**; não há confirmação de que correspondam a aulas ministradas.
+
+| Tópico do plano | Material |
+|---|---|
+| Introdução / Revisão SQL | [Aula 01](./aulas/01-introducao-revisao-sql/README.md) |
+| Visões e Junções / Restrições | [Aula 02 — Restrições e Junções](./aulas/02-restricoes-e-juncoes/README.md) |
+| Visões (Views) | [Material complementar](./aulas/03-visoes/README.md) |
+| Gatilhos (Triggers) | [Material complementar](./aulas/04-gatilhos-triggers/README.md) |
+| Procedures | [Material complementar](./aulas/05-procedures/README.md) |
+| Funções | [Material complementar](./aulas/06-funcoes/README.md) |
+| Transação / Concorrência | [Material complementar](./aulas/07-transacoes-concorrencia/README.md) |
+| Otimização de Consultas | [Material complementar](./aulas/08-otimizacao-consultas/README.md) |
+
+> O plano não informa versão do MySQL, cronograma nem datas para os tópicos posteriores. Os scripts são exemplos didáticos e podem exigir adaptação ao esquema e à configuração do servidor.
