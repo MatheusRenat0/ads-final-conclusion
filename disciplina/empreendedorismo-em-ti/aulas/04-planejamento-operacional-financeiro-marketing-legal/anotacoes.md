@@ -1,4 +1,4 @@
-# Minhas anotações — Planejamento operacional, financeiro, marketing e legalização
+# Minhas anotações: Planejamento operacional, financeiro, marketing e legalização
 
 Nesta unidade, estou relacionando a ideia do negócio com o que será necessário para colocá-la em prática: operação, equipe, dinheiro, divulgação e formalização. O plano precisa ser coerente entre essas partes; previsão de vendas, capacidade de entrega e custos não podem ser pensados isoladamente.
 
@@ -30,6 +30,6 @@ A formalização envolve estrutura jurídica, registros, licenças e obrigaçõe
 
 Para a solução definida na Unidade III, descreva processo de entrega, capacidade inicial, funções necessárias, premissas financeiras, público e canais de marketing e decisões de formalização que ainda precisam ser investigadas. Não invente valores: liste os dados a levantar.
 
-## Material de origem
+## Apresentação da aula
 
-Slide 2.pdf — Unidade IV, páginas 1–42.
+Slide 2.pdf: Unidade IV, páginas 1–42.

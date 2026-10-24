@@ -1,4 +1,4 @@
-# Unidade 03 — Plano de negócios, oportunidades, produtos e serviços
+# Unidade 03: Plano de negócios, oportunidades, produtos e serviços
 
 ## Conteúdo
 
@@ -6,9 +6,9 @@ Fundamentos, estrutura e elaboração do plano de negócios; identificação e v
 
 ## Arquivos
 
-- [Anotações](./anotacoes.md) — desenvolvimento do conteúdo e exercício.
-- [Resumo](./resumo-aula.md) — síntese para revisão.
+- [Anotações](./anotacoes.md): desenvolvimento do conteúdo e exercício.
+- [Resumo](./resumo-aula.md): síntese para revisão.
 
-## Material de origem
+## Apresentação da aula
 
-Slide 1.pdf — Unidade III, páginas 1–42.
+Slide 1.pdf: Unidade III, páginas 1–42.

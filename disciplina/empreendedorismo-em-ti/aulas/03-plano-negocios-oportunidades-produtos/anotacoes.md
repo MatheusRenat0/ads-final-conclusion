@@ -1,10 +1,10 @@
-# Minhas anotações — Plano de negócios, oportunidades, produtos e serviços
+# Minhas anotações: Plano de negócios, oportunidades, produtos e serviços
 
-Estou pensando no plano de negócios como uma forma de organizar hipóteses e decisões para avaliar se uma proposta pode funcionar. Ele precisa ser revisado quando descubro algo novo sobre clientes, concorrentes, custos ou operação.
+Estou pensando no plano de negócios como uma forma de organizar hipóteses e decisões para analisar se uma proposta pode funcionar. Ele precisa ser revisado quando descubro algo novo sobre clientes, concorrentes, custos ou operação.
 
 ## Plano de negócios
 
-O plano de negócios organiza objetivos, caminhos, recursos e informações para avaliar e conduzir um empreendimento. Sua finalidade é apoiar planejamento e decisões e reduzir incertezas. Deve ser atualizado quando hipóteses, mercado ou operação mudarem; não garante sucesso nem é documento imutável.
+O plano de negócios organiza objetivos, caminhos, recursos e informações para analisar e conduzir um empreendimento. Sua finalidade é apoiar planejamento e decisões e reduzir incertezas. Deve ser atualizado quando hipóteses, mercado ou operação mudarem; não garante sucesso nem é documento imutável.
 
 A estrutura apresentada inclui capa, sumário, sumário executivo, descrição do negócio, produtos e serviços, análise de mercado, estratégia de marketing, plano operacional, planejamento financeiro e anexos. O nível de detalhe varia conforme o público e a decisão a apoiar. Negócios digitais também precisam explicar proposta de valor, segmento de clientes, modelo de monetização, canais, operação e escalabilidade.
 
@@ -24,6 +24,6 @@ Um pitch apresenta ideia e proposta de valor de forma curta e adequada ao públi
 
 Escreva uma página inicial de plano de negócios para uma solução de TI. Identifique problema, cliente, proposta de valor, modelo de receita e três hipóteses críticas. Priorize-as e proponha um teste de baixo custo para a primeira.
 
-## Material de origem
+## Apresentação da aula
 
-Slide 1.pdf — Unidade III, páginas 1–42.
+Slide 1.pdf: Unidade III, páginas 1–42.

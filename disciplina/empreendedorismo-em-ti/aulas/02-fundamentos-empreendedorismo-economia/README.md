@@ -1,4 +1,4 @@
-# Unidade 02 — Empreendedorismo, economia e sustentabilidade
+# Unidade 02: Empreendedorismo, economia e sustentabilidade
 
 ## Conteúdo
 
@@ -6,9 +6,9 @@ Conceitos e histórico do empreendedorismo; perfil e competências; empreendedor
 
 ## Arquivos
 
-- [Anotações](./anotacoes.md) — desenvolvimento do conteúdo e exercício.
-- [Resumo](./resumo-aula.md) — síntese para revisão.
+- [Anotações](./anotacoes.md): desenvolvimento do conteúdo e exercício.
+- [Resumo](./resumo-aula.md): síntese para revisão.
 
-## Material de origem
+## Apresentação da aula
 
-Slide 3.pdf — Unidade II, páginas 1–45.
+Slide 3.pdf: Unidade II, páginas 1–45.

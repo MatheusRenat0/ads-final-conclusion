@@ -1,4 +1,4 @@
-# Minhas anotações — Empreendedorismo, economia e sustentabilidade
+# Minhas anotações: Empreendedorismo, economia e sustentabilidade
 
 O que quero lembrar desta unidade é que uma ideia só vira oportunidade quando existe uma necessidade que consigo compreender e uma forma plausível de atendê-la. Preciso olhar também para custos, mercado e impactos sociais e ambientais, e não apenas para a tecnologia.
 
@@ -26,6 +26,6 @@ Empreendedorismo social busca soluções para problemas sociais ou ambientais. E
 
 Identifique uma necessidade na comunidade acadêmica e proponha uma solução digital. Formule uma hipótese de valor, indique como ouvi-la de usuários e liste custos, riscos e impactos sociais ou ambientais.
 
-## Material de origem
+## Apresentação da aula
 
-Slide 3.pdf — Unidade II, páginas 1–45.
+Slide 3.pdf: Unidade II, páginas 1–45.

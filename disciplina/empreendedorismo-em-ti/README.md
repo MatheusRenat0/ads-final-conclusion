@@ -2,13 +2,13 @@
 
 > **Professor:** Prof. Me. Antônio Palmeira
 
-Material organizado pelas quatro unidades dos PDFs enviados. Os nomes dos arquivos não seguem a ordem didática; a sequência adotada considera os títulos internos: Unidades I, II, III e IV.
+Aqui organizei o conteúdo de Empreendedorismo em TI em quatro unidades, seguindo a sequência das apresentações usadas em sala de aula e disponíveis no portal da faculdade.
 
-- [Plano de ensino](./plano-de-ensino.md) — ementa, objetivos e conteúdo programático.
+- [Plano de ensino](./plano-de-ensino.md): ementa, objetivos e conteúdo programático.
 
 ## Unidades
 
-| Unidade | Tema | PDF de origem |
+| Unidade | Tema | Apresentação |
 |---|---|---|
 | [I](./aulas/01-administracao-estrategia-ti/README.md) | Administração, estratégia e negócios em TI | `Slide 4.pdf` |
 | [II](./aulas/02-fundamentos-empreendedorismo-economia/README.md) | Empreendedorismo, economia e sustentabilidade | `Slide 3.pdf` |

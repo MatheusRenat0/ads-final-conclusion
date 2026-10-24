@@ -1,4 +1,4 @@
-# Unidade 04 — Planejamento operacional, financeiro, marketing e legalização
+# Unidade 04: Planejamento operacional, financeiro, marketing e legalização
 
 ## Conteúdo
 
@@ -6,9 +6,9 @@ Planejamento operacional, de recursos humanos, financeiro e de marketing; legali
 
 ## Arquivos
 
-- [Anotações](./anotacoes.md) — desenvolvimento do conteúdo e exercício.
-- [Resumo](./resumo-aula.md) — síntese para revisão.
+- [Anotações](./anotacoes.md): desenvolvimento do conteúdo e exercício.
+- [Resumo](./resumo-aula.md): síntese para revisão.
 
-## Material de origem
+## Apresentação da aula
 
-Slide 2.pdf — Unidade IV, páginas 1–42.
+Slide 2.pdf: Unidade IV, páginas 1–42.

@@ -1,4 +1,4 @@
-# Minhas anotações — Administração, estratégia e negócios em TI
+# Minhas anotações: Administração, estratégia e negócios em TI
 
 Nesta unidade organizei os conceitos de administração e estratégia pensando em como eles se aplicam a uma empresa de tecnologia. As ferramentas de análise ajudam a tomar decisões, mas preciso relacioná-las a evidências e objetivos concretos.
 
@@ -28,6 +28,6 @@ Escolha uma empresa ou serviço de TI. Descreva missão e visão, construa uma S
 
 **Slides relacionados:** páginas 3–9 apresentam administração e recursos; 12–20 funções administrativas; 22–37 estratégia, ferramentas e planejamento de TI.
 
-## Material de origem
+## Apresentação da aula
 
-Slide 4.pdf — Unidade I, páginas 1–44.
+Slide 4.pdf: Unidade I, páginas 1–44.

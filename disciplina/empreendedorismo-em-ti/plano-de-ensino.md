@@ -1,6 +1,4 @@
-# Plano de Ensino — Empreendedorismo em TI
-
-> Plano organizado a partir do conteúdo programático dos quatro PDFs enviados. Os arquivos não informam carga horária, calendário nem pesos oficiais de avaliação.
+# Plano de Ensino: Empreendedorismo em TI
 
 ## Identificação
 
@@ -18,29 +16,30 @@ Compreender conceitos de empreendedorismo e Administração e aplicá-los à an�
 
 ## Conteúdo programático
 
-### Unidade I — Administração e estratégia para empreendedores
+### Unidade I: Administração e estratégia para empreendedores
 
 Fundamentos e evolução da Administração; funções administrativas; recursos e funções empresariais; estratégia corporativa e competitiva; diagnóstico e posicionamento estratégico, incluindo SWOT, forças competitivas, ciclo de vida, matrizes de portfólio e Balanced Scorecard; planejamento estratégico empresarial e de TI.
 
-### Unidade II — Empreendedorismo, economia e sustentabilidade
+### Unidade II: Empreendedorismo, economia e sustentabilidade
 
 Conceitos e histórico do empreendedorismo; perfil e competências; empreendedorismo corporativo e intraempreendedorismo; negócios digitais, startups, inovação e MVP; fundamentos de economia, oferta, demanda, custos, despesas, preços e margem de contribuição; empreendedorismo social e sustentável.
 
-### Unidade III — Plano de negócios, oportunidades, produtos e serviços
+### Unidade III: Plano de negócios, oportunidades, produtos e serviços
 
 Finalidade, estrutura e elaboração do plano de negócios; identificação, priorização e validação de oportunidades; desenvolvimento, proposta de valor, benefícios, diferenciação e ciclo de vida de produtos e serviços; branding, pitch, pesquisa e desenvolvimento; modelos digitais.
 
-### Unidade IV — Planejamento e estruturação do negócio
+### Unidade IV: Planejamento e estruturação do negócio
 
 Planejamento operacional, capacidade produtiva e localização; recursos humanos e competências; planejamento financeiro, receitas, custos, despesas, investimentos, demonstrações, fluxo de caixa e ponto de equilíbrio; marketing, segmentação, posicionamento, mix e previsão da demanda; legalização e estruturação empresarial.
 
-## Metodologia e avaliação
+## Apresentações usadas nas aulas
 
-Os PDFs apresentam conteúdo expositivo, exemplos e questões de revisão. Não descrevem metodologia institucional, calendário de atividades ou composição oficial da avaliação. Esses dados permanecem não informados.
+- Unidade I: **Slide 4.pdf**, apresentado em sala de aula e disponível no portal da faculdade.
+- Unidade II: **Slide 3.pdf**, apresentado em sala de aula e disponível no portal da faculdade.
+- Unidade III: **Slide 1.pdf**, apresentado em sala de aula e disponível no portal da faculdade.
+- Unidade IV: **Slide 2.pdf**, apresentado em sala de aula e disponível no portal da faculdade.
 
-## Referências
-
-Referências bibliográficas transcritas das páginas finais dos materiais enviados:
+## Livros indicados nas apresentações
 
 - ABDALA, M. M. et al. *Administração estratégica: da teoria à prática no Brasil*. São Paulo: Atlas, 2019.
 - ANDRADE, A. R. de. *Planejamento estratégico: formulação, implementação e controle*. 2. ed. São Paulo: Atlas, 2016.
