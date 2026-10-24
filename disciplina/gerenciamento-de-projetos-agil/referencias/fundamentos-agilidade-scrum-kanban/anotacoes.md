@@ -1,4 +1,4 @@
-# Minhas anotações de referência — Fundamentos da Agilidade, Scrum e Kanban
+# Minhas anotações: Fundamentos da Agilidade, Scrum e Kanban
 
 Ao rever estes fundamentos, entendi que trabalhar de forma ágil significa aprender com entregas e feedback e ajustar prioridades. Scrum e Kanban ajudam a organizar o trabalho de maneiras diferentes; não são apenas nomes para reuniões ou quadros.
 
@@ -69,7 +69,7 @@ O Product Backlog é ordenado considerando valor, risco, dependências e aprendi
 
 Divida trabalho grande em fatias que possam ser verificadas e que entreguem valor por si. Estimativas são previsões com incerteza, não compromissos de produtividade individual. Use histórico da equipe com contexto e reveja previsões quando capacidade, dependências ou escopo mudarem.
 
-Exemplo de necessidade: “Como estudante, quero consultar o calendário de avaliações para organizar meus estudos.” Critérios de aceitação podem especificar período, disciplina, fuso horário e comportamento quando não houver avaliações. A equipe pode começar pela consulta do calendário, sem assumir de início notificações, exportação e integração externa.
+Exemplo de necessidade: “Como estudante, quero consultar o calendário de aulas para organizar minha semana.” Os critérios de aceitação podem especificar o período, as disciplinas e o que aparece quando ainda não há aulas cadastradas. A equipe pode começar pela consulta do calendário, sem assumir notificações, exportação ou integração externa.
 
 ## 7. Acompanhamento, métricas e riscos
 
@@ -98,7 +98,7 @@ A gestão de riscos permanece ativa. Registre risco, probabilidade, impacto, res
 
 ### Exemplo de hipótese
 
-“Se estudantes consultarem o calendário por disciplina, conseguirão encontrar a próxima avaliação com menos esforço.” Teste inicial: protótipo navegável com estudantes e observação da tarefa. O resultado do teste deve orientar a prioridade; não se deve registrar como sucesso sem realizar a atividade.
+“Se estudantes consultarem o calendário por disciplina, conseguirão encontrar a próxima aula com menos esforço.” Para conferir a ideia, a equipe pode montar um protótipo navegável e observar estudantes usando a tela. O que acontecer no teste ajuda a decidir o próximo passo.
 
 ## 9. Questões para revisão
 
@@ -107,14 +107,14 @@ A gestão de riscos permanece ativa. Registre risco, probabilidade, impacto, res
 3. Qual é a finalidade da Sprint Review e como difere da Retrospective?
 4. Qual compromisso está associado a cada artefato Scrum?
 5. Como limite WIP pode ajudar a revelar gargalos?
-6. Por que velocidade ou número de tarefas não deve ser usada isoladamente para avaliar pessoas?
+6. Por que velocidade ou número de tarefas não mostra, por si só, o valor entregue pela equipe?
 7. Como uma equipe responde a mudança mantendo qualidade e transparência?
 
-## 10. Conexão com os slides enviados
+## 10. Relação com as apresentações de aula
 
 O ZIP fornecido reúne apresentações de **Gestão de Serviços de TI e ITIL 4**. Elas não definem o conteúdo oficial desta disciplina, mas apresentam situações que ajudam a relacionar gerenciamento de projetos ágil a gestão de produto e serviço. ITIL trata de gestão de serviços; valores e práticas ágeis orientam outra dimensão do trabalho. Uma organização pode combiná-los sem confundir seus objetivos.
 
-| Material e referência | Conceito do slide | Aplicação ao gerenciamento ágil de projetos |
+| Apresentação e slides | Conceito apresentado | Aplicação ao gerenciamento ágil de projetos |
 |---|---|---|
 | `Aula1_Gestao_TI.pptx`, slides 5–10 | Serviço, produto, stakeholders, valor cocriado e dimensões de análise | Ao formular objetivo de produto, identifique usuários e outros stakeholders, o resultado esperado e como verificar valor. |
 | `Aula1_Gestao_TI.pptx`, slides 17–20 | Impacto de negócio, visão de valor e métricas | Relacione métricas de atividade e técnicas a resultados do usuário. Uma equipe pode concluir itens sem resolver a necessidade que motivou o projeto. |
@@ -125,9 +125,9 @@ O ZIP fornecido reúne apresentações de **Gestão de Serviços de TI e ITIL 4*
 
 ### Exemplo integrado para o PIM
 
-Considere um aplicativo acadêmico para consultar avaliações. O Canvas dos slides de Gestão de Serviços ajuda a perguntar quem usa o serviço e que resultado procura. O grupo pode selecionar uma fatia simples para um Sprint, obter feedback sobre a consulta do calendário e reordenar o backlog. O mapa da Cadeia de Valor dos slides ITIL complementa a análise perguntando como a solução será construída, disponibilizada, apoiada e melhorada. A cadeia ITIL não precisa corresponder à sequência de eventos do Scrum nem às colunas de um quadro Kanban.
+Considere um aplicativo acadêmico para consultar o calendário de aulas e avisos. O Canvas dos slides de Gestão de Serviços ajuda a perguntar quem usa o serviço e que resultado procura. O grupo pode selecionar uma fatia simples para um Sprint, obter feedback sobre a consulta do calendário e reordenar o backlog. O mapa da Cadeia de Valor dos slides ITIL complementa a análise perguntando como a solução será construída, disponibilizada, apoiada e melhorada. A cadeia ITIL não precisa corresponder à sequência de eventos do Scrum nem às colunas de um quadro Kanban.
 
-## Referências
+## Livros e materiais para consulta
 
 - BECK, Kent et al. [Manifesto para Desenvolvimento Ágil de Software](https://agilemanifesto.org/iso/ptbr/manifesto.html). 2001.
 - SCHWABER, Ken; SUTHERLAND, Jeff. [O Guia do Scrum](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-PortugueseBR.pdf). Novembro de 2020.

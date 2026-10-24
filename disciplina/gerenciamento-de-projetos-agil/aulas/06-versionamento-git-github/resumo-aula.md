@@ -1,4 +1,4 @@
-# Resumo — Versionamento com Git e GitHub
+# Resumo: Versionamento com Git e GitHub
 
 O controle de versão registra as alterações de um projeto ao longo do tempo. O Git é um sistema distribuído: mantém um repositório local, permite criar commits com mudanças preparadas e organizar o trabalho em branches. GitHub hospeda repositórios Git e oferece recursos de colaboração, como pull requests e revisão de código.
 

@@ -1,4 +1,4 @@
-# Minhas anotações — Modelo ITIL 4 e Sistema de Valor de Serviço
+# Minhas anotações: Modelo ITIL 4 e Sistema de Valor de Serviço
 
 > Organizei estas anotações a partir dos slides e do documento da aula.
 

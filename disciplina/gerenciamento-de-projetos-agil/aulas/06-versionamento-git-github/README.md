@@ -1,4 +1,4 @@
-# Aula 06 — Versionamento com Git e GitHub
+# Aula 06: Versionamento com Git e GitHub
 
 - **Professor:** André Muniz
 - **Data:** 23/10/2026
@@ -11,6 +11,6 @@ Entender o que é controle de versão, aprender o fluxo básico de trabalho com 
 
 Leia as [anotações](./anotacoes.md) para explicações, comandos e uma atividade prática. Use o [resumo](./resumo-aula.md) para revisar os pontos principais.
 
-## Material de origem
+## Material da aula
 
 Aula ministrada pelo professor André Muniz em 23/10/2026. As anotações foram organizadas a partir do conteúdo informado pelo estudante.

@@ -1,4 +1,4 @@
-# Minhas anotações — Aplicação prática de ITIL 4 ao PIM
+# Minhas anotações: Aplicação prática de ITIL 4 ao PIM
 
 > Organizei estas anotações a partir dos slides e do documento da aula.
 
@@ -26,12 +26,12 @@ Analisar como a proposta de software do PIM pode apoiar um serviço que gere val
 - Que melhoria reduz recorrência?
 - Qual métrica mostrará se a resposta funcionou?
 
-## Entrega e avaliação
+## Atividade prática
 
-A apresentação sugere uma folha A3, cartaz ou slide contendo produto, serviço, demanda, usuários, resultado, valor, utilidade, garantia, riscos, métricas e mapa da cadeia. A rubrica proposta soma dez pontos e avalia definição de produto/serviço, stakeholders, valor, risco, aplicação do SVS, princípios, fluxo de valor, melhorias e defesa das decisões.
+A apresentação sugere preparar uma folha A3, cartaz ou slide com o produto, serviço, demanda, usuários, resultado, valor, utilidade, garantia, riscos, métricas e mapa da cadeia. Depois, o grupo apresenta e explica as decisões usando os conceitos vistos na aula.
 
 ## Conexão com gerenciamento ágil
 
 O PIM pode ser trabalhado incrementalmente: valide uma hipótese com usuários, priorize a próxima entrega e use feedback para ajustar o plano. A análise ITIL amplia o olhar para operação e suporte. As práticas se complementam; a Cadeia de Valor não substitui Sprint, Product Backlog ou quadro Kanban.
 
-**Slides relacionados:** 6–8 apresentam produto/serviço e Canvas; 9–11 aplicam princípios e cadeia; 12–15 trazem desafio, entrega e rubrica.
+**Slides relacionados:** 6–8 apresentam produto/serviço e Canvas; 9–11 aplicam princípios e cadeia; 12–15 trazem o desafio e orientações para a apresentação.

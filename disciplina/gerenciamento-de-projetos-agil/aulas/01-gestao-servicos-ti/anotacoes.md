@@ -1,4 +1,4 @@
-# Minhas anotações — Serviços de TI, valor e gerenciamento
+# Minhas anotações: Serviços de TI, valor e gerenciamento
 
 > Organizei estas anotações a partir dos slides e do documento da aula.
 

@@ -1,6 +1,6 @@
-# Minhas anotações — Versionamento com Git e GitHub
+# Minhas anotações: Versionamento com Git e GitHub
 
-**Aula do professor André Muniz — 23/10/2026**
+**Aula do professor André Muniz: 23/10/2026**
 
 O que entendi é que versionar um projeto significa registrar suas mudanças de forma organizada para conseguir acompanhar como ele evoluiu e colaborar sem depender de cópias como “trabalho-final-agora-vai”. O Git é o sistema de controle de versão; GitHub é uma plataforma onde podemos hospedar repositórios Git e colaborar por meio de branches, pull requests e revisão.
 
@@ -93,9 +93,9 @@ Git e GitHub não substituem comunicação, testes ou revisão. Commits pequenos
 
 Crie um repositório de estudo com um README, registre a versão inicial, crie uma branch para acrescentar uma seção, faça um commit e compare o histórico. Se houver acesso a um repositório GitHub de exercícios, envie a branch e abra uma pull request. Antes de cada commit, confira **git status** e o diff.
 
-## Referências
+## Materiais para consulta
 
-- [Git — documentação oficial](https://git-scm.com/docs)
-- [GitHub — sobre Git](https://docs.github.com/en/get-started/using-git/about-git)
-- [GitHub — obtendo alterações de um repositório remoto](https://docs.github.com/en/get-started/using-git/getting-changes-from-a-remote-repository)
-- [GitHub — início rápido de pull requests](https://docs.github.com/en/pull-requests/get-started/pull-request-quickstart)
+- [Git: documentação oficial](https://git-scm.com/docs)
+- [GitHub: sobre Git](https://docs.github.com/en/get-started/using-git/about-git)
+- [GitHub: obtendo alterações de um repositório remoto](https://docs.github.com/en/get-started/using-git/getting-changes-from-a-remote-repository)
+- [GitHub: início rápido de pull requests](https://docs.github.com/en/pull-requests/get-started/pull-request-quickstart)

@@ -1,4 +1,4 @@
-# Minhas anotações — Engenharia de Software com apoio de prompts
+# Minhas anotações: Engenharia de Software com apoio de prompts
 
 > Organizei estas anotações a partir dos slides e do documento da aula.
 
@@ -35,19 +35,19 @@ Um prompt de trabalho deve dizer qual papel funcional é esperado, qual tarefa s
 
 Antes de aceitar a saída, confira fonte e versão dos requisitos, IDs, consistência, critérios verificáveis, segurança, acessibilidade e compatibilidade com arquitetura. Mantenha ligações entre necessidade, requisito, componente, teste e evidência. Diferencie teste planejado, implementado, executado, bloqueado e reprovado.
 
-O documento de origem cita ISO/IEC/IEEE 29148, 12207, 42010 e 29119-2 como referências. A sequência é uma organização prática de aula e não representa, por si só, conformidade normativa. Consulte os textos aplicáveis antes de fazer alegações de conformidade.
+O documento de origem menciona as normas ISO/IEC/IEEE 29148, 12207, 42010 e 29119-2. A sequência é uma organização prática de aula e não representa, por si só, conformidade normativa. Consulte os textos aplicáveis antes de fazer alegações de conformidade.
 
 ## Atividade
 
 Escolha uma funcionalidade de PIM. Escreva a entrada e a saída esperada para cada etapa de 1 a 6, indicando o que precisa ser validado por uma pessoa antes de seguir. Em seguida, simule uma resposta incompleta e registre quais perguntas impedem que a equipe a trate como decisão aprovada.
 
-## Referências indicadas no documento da aula
+## Normas e materiais mencionados na aula
 
 O documento de origem aponta estas normas para consulta e alerta que seu roteiro prático não comprova conformidade. As edições aplicáveis devem ser confirmadas pela equipe antes de qualquer declaração de conformidade.
 
-- ISO/IEC/IEEE 29148:2018 — Requirements engineering: https://www.iso.org/standard/72089.html
-- ISO/IEC/IEEE 12207:2026 — Software life cycle processes: https://ieeexplore.ieee.org/iel8/11481696/11481697/11481698.pdf
-- ISO/IEC/IEEE 42010:2022 — Architecture description: https://www.iso.org/standard/74393.html
-- ISO/IEC/IEEE 29119-2:2021 — Test processes: https://www.iso.org/standard/79428.html
+- ISO/IEC/IEEE 29148:2018: Requirements engineering: https://www.iso.org/standard/72089.html
+- ISO/IEC/IEEE 12207:2026: Software life cycle processes: https://ieeexplore.ieee.org/iel8/11481696/11481697/11481698.pdf
+- ISO/IEC/IEEE 42010:2022: Architecture description: https://www.iso.org/standard/74393.html
+- ISO/IEC/IEEE 29119-2:2021: Test processes: https://www.iso.org/standard/79428.html
 
-**Material de origem:** `Prompts_Engenharia_Software_IEEE.doc`, arquivo enviado no ZIP. O documento apresenta a sequência de dez prompts e as entregas esperadas.
+**Material da aula:** `Prompts_Engenharia_Software_IEEE.doc`, arquivo enviado no ZIP. O documento apresenta a sequência de dez prompts e as entregas esperadas.

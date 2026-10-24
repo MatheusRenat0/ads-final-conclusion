@@ -1,4 +1,4 @@
-# Resumo de referência — Fundamentos da Agilidade, Scrum e Kanban
+# Resumo: Fundamentos da Agilidade, Scrum e Kanban
 
 Gerenciamento ágil organiza o trabalho em ciclos de aprendizagem e entrega. A equipe mantém objetivos, prioridades, riscos e qualidade visíveis, detalha o trabalho próximo e adapta o plano à luz de resultados e feedback. Agilidade não elimina planejamento, documentação ou controles necessários.
 

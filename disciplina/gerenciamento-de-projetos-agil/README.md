@@ -7,7 +7,7 @@ Material da disciplina organizado na sequência das aulas fornecidas pelo profes
 
 ## Aulas
 
-| Aula | Tema | Material de origem |
+| Aula | Tema | Material da aula |
 |---|---|---|
 | [01](./aulas/01-gestao-servicos-ti/README.md) | Serviços de TI, valor e gerenciamento | `Aula1_Gestao_TI.pptx` |
 | [02](./aulas/02-modelo-itil4-svs/README.md) | Modelo ITIL 4 e Sistema de Valor de Serviço | `Aula2_ITIL4.pptx` e PDF |
@@ -16,6 +16,6 @@ Material da disciplina organizado na sequência das aulas fornecidas pelo profes
 | [05](./aulas/05-engenharia-software-prompts/README.md) | Engenharia de Software com apoio de prompts | `Prompts_Engenharia_Software_IEEE.doc` |
 | [06](./aulas/06-versionamento-git-github/README.md) | Versionamento com Git e GitHub | Aula de André Muniz, 23/10/2026 |
 
-## Material de referência
+## Material de apoio
 
-- [Fundamentos da Agilidade, Scrum e Kanban](./referencias/fundamentos-agilidade-scrum-kanban/README.md) — material geral produzido anteriormente e mantido como referência complementar às aulas fornecidas.
+- [Fundamentos da Agilidade, Scrum e Kanban](./referencias/fundamentos-agilidade-scrum-kanban/README.md): conteúdo para complementar as aulas e revisar os conceitos principais.

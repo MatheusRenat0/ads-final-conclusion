@@ -1,4 +1,4 @@
-# Minhas anotações — Cadeia de Valor de Serviço do ITIL 4
+# Minhas anotações: Cadeia de Valor de Serviço do ITIL 4
 
 > Organizei estas anotações a partir dos slides e do documento da aula.
 
