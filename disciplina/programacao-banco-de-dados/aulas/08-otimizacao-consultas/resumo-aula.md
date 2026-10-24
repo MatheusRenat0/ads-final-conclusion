@@ -1,9 +1,5 @@
-# Resumo — Otimização de Consultas
+# Resumo — Otimização de consultas
 
-- Use `EXPLAIN` para entender o plano estimado.
-- `EXPLAIN ANALYZE` executa a consulta e deve ser usado conscientemente.
-- Índices ajudam leituras específicas, mas custam espaço e escrita.
-- A ordem em índices compostos importa.
-- Meça antes e depois com dados representativos.
+Aprendi que não devo adicionar índices ou reescrever consultas sem antes entender o plano de execução. `EXPLAIN` mostra como o MySQL pretende executar a consulta; `EXPLAIN ANALYZE` também executa de fato, então preciso usá-lo com atenção.
 
-Consulte [anotações](./anotacoes.md) para explicações, exemplos e exercícios, e [script SQL](./exemplos.sql) para os exemplos MySQL.
+Índices podem acelerar filtros e junções, mas ocupam espaço e tornam escritas mais custosas. Em índices compostos, a ordem das colunas faz diferença. O melhor é mudar uma coisa por vez e comparar com dados representativos. O exemplo está nas [anotações](./anotacoes.md) e no [script MySQL](./exemplos.sql).

@@ -2,6 +2,8 @@
 
 > **Nota de escopo:** o plano lista visões, gatilhos, procedures e funções como conteúdos da disciplina, mas os materiais disponíveis não confirmam que tenham sido abordados nesta aula. Eles não são tratados aqui como conteúdo ministrado.
 
+Nesta aula relacionei as regras de integridade com a estrutura das tabelas. A ideia é deixar o banco impedir dados inválidos ou duplicados, em vez de depender somente da aplicação para conferir cada entrada. Depois usei junções para combinar informações que estão distribuídas em tabelas relacionadas.
+
 ## 1. Restrições
 
 As restrições são regras aplicadas às estruturas e aos dados de um banco de dados. Seu objetivo é garantir a precisão, consistência e confiabilidade das informações armazenadas.

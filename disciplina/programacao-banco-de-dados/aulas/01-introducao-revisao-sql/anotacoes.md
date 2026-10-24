@@ -1,6 +1,8 @@
-# Anotações Pessoais
+# Minhas anotações — Revisão de SQL
 
-## Objetivos após a aula
+Nesta aula revisei comandos que já tinha visto e organizei a diferença entre definir a estrutura do banco e manipular os registros. Quero praticar as consultas com uma base pequena para entender o resultado, não só decorar a sintaxe.
+
+## O que quero fixar
 
 - Retomar a base dos principais comandos da linguagem SQL.
 - Revisar os conceitos fundamentais de Banco de Dados Relacional.

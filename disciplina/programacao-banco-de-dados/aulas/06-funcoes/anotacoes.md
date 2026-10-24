@@ -1,4 +1,6 @@
-# Anotações de estudo — Funções
+# Minhas anotações — Funções
+
+Nesta parte estou separando função de procedure: a função devolve um valor que posso usar numa expressão SQL. Também preciso declarar corretamente o tipo de retorno e as características da função, de acordo com o que ela realmente faz.
 
 ## Sintaxe e uso
 

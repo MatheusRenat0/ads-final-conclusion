@@ -1,4 +1,6 @@
-# Anotações de estudo — Visões (Views)
+# Minhas anotações — Visões (Views)
+
+A ideia que guardei desta aula é que uma view dá nome a uma consulta que posso reutilizar. Isso pode deixar as consultas mais organizadas e limitar as colunas que exponho, mas não transforma a view em uma cópia automática dos dados nem substitui permissões e índices.
 
 ## Conceito e usos
 

@@ -1,9 +1,5 @@
 # Resumo — Gatilhos (Triggers)
 
-- Triggers são executados automaticamente por linha em INSERT, UPDATE ou DELETE.
-- MySQL oferece BEFORE e AFTER.
-- `NEW` e `OLD` representam valores novos e antigos conforme o evento.
-- `SIGNAL SQLSTATE 45000` permite sinalizar erro de negócio.
-- Prefira regras declarativas quando bastarem e mantenha triggers simples.
+Nesta aula entendi que um trigger é executado automaticamente quando acontece um `INSERT`, `UPDATE` ou `DELETE`. No MySQL ele pode rodar antes ou depois da alteração, e é disparado para cada linha afetada. `NEW` e `OLD` dão acesso aos valores novos e anteriores, conforme o tipo de operação.
 
-Consulte [anotações](./anotacoes.md) para explicações, exemplos e exercícios, e [script SQL](./exemplos.sql) para os exemplos MySQL.
+Um trigger pode validar uma regra ou registrar uma alteração, mas seus efeitos podem ficar escondidos para quem consulta a aplicação. Por isso, devo preferir restrições declarativas quando forem suficientes e deixar a lógica do trigger pequena. O exemplo com `SIGNAL` está nas [anotações](./anotacoes.md) e no [script MySQL](./exemplos.sql).

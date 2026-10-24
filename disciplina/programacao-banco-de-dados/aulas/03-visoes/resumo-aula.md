@@ -1,9 +1,5 @@
 # Resumo — Visões (Views)
 
-- `CREATE VIEW` armazena uma definição de consulta sob um nome.
-- Views ajudam a reutilizar consultas e restringir colunas expostas.
-- A maioria das views não armazena os resultados como uma tabela separada.
-- Views complexas podem não ser atualizáveis.
-- Permissões, definidor e alterações no esquema precisam ser considerados.
+O que guardei desta aula é que uma view dá um nome a uma consulta que posso reutilizar. Com `CREATE VIEW`, posso deixar mais simples uma consulta recorrente ou expor apenas as colunas necessárias. Na maioria dos casos, a view guarda a definição da consulta, não uma cópia dos resultados.
 
-Consulte [anotações](./anotacoes.md) para explicações, exemplos e exercícios, e [script SQL](./exemplos.sql) para os exemplos MySQL.
+Nem toda view pode ser atualizada diretamente, principalmente quando a consulta envolve agrupamentos ou outras operações mais complexas. Também preciso pensar em permissões e no efeito que mudanças nas tabelas de origem podem ter. As [anotações](./anotacoes.md) e o [script MySQL](./exemplos.sql) têm o exemplo completo.

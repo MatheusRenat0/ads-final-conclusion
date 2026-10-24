@@ -1,9 +1,5 @@
-# Resumo — Transações e Concorrência
+# Resumo — Transações e concorrência
 
-- Transações agrupam operações e permitem confirmação ou reversão.
-- InnoDB é necessário para as garantias transacionais usuais no MySQL.
-- ACID resume propriedades importantes das transações.
-- Isolamento, MVCC e bloqueios controlam acessos simultâneos.
-- Deadlocks exigem tratamento e possível repetição segura pela aplicação.
+Uma transação permite tratar várias instruções como uma unidade de trabalho. No exemplo de transferência, retiro o valor de uma conta e acrescento na outra; se uma das etapas falha, preciso desfazer para não deixar o banco num estado incompleto. No MySQL, essas garantias dependem de tabelas transacionais, como InnoDB.
 
-Consulte [anotações](./anotacoes.md) para explicações, exemplos e exercícios, e [script SQL](./exemplos.sql) para os exemplos MySQL.
+ACID resume atomicidade, consistência, isolamento e durabilidade. Quando várias sessões trabalham ao mesmo tempo, o isolamento, os bloqueios e o MVCC controlam o que cada uma consegue ver ou alterar. Deadlocks podem acontecer; a aplicação deve lidar com o erro e só repetir operações que sejam seguras. Mais detalhes estão nas [anotações](./anotacoes.md) e no [script MySQL](./exemplos.sql).

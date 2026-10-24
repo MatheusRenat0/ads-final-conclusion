@@ -6,7 +6,9 @@
 
 # Objetivo da Aula
 
-Nesta primeira aula foi realizada uma revisão dos conceitos fundamentais de Banco de Dados Relacional e da linguagem SQL. O objetivo foi relembrar a estrutura de um banco de dados, compreender o processo de modelagem, revisar os principais grupos de comandos SQL e reforçar a construção de consultas, preparando a base para os conteúdos mais avançados da disciplina.
+Nesta primeira aula revisei os conceitos fundamentais de banco de dados relacional e SQL. Relembrei como as tabelas organizam dados relacionados e como a modelagem ajuda a decidir o que guardar antes de começar a escrever consultas.
+
+Também revisei os principais grupos de comandos e pratiquei consultas para selecionar, filtrar, ordenar e agrupar informações. Para fixar, quero entender o que cada comando altera no banco e testar as consultas com dados pequenos antes de avançar para junções, visões e rotinas.
 
 ---
 

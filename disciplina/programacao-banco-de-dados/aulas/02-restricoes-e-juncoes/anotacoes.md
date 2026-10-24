@@ -1,6 +1,8 @@
-# Anotações Pessoais
+# Minhas anotações — Restrições e junções
 
-## Objetivos após a aula
+O que ficou mais claro nesta aula é que as regras dos dados devem estar protegidas no próprio banco. Assim, uma tabela não depende apenas de cada tela ou aplicação lembrar de validar tudo. As junções completam essa ideia ao permitir consultar informações relacionadas que ficam em tabelas diferentes.
+
+## O que quero fixar
 
 - Reforçar o conceito de restrições em bancos de dados.
 - Praticar a criação de tabelas utilizando `CONSTRAINTS`.
