@@ -1,13 +1,20 @@
-# Anotações de estudo — Recursos do Dispositivo e Segurança
+# Minhas anotações — Recursos do dispositivo e segurança
 
-## Conceitos
+Câmera, localização e notificações dão mais possibilidades ao aplicativo, mas também envolvem dados e decisões da pessoa. Não faz sentido pedir todas as permissões logo na primeira abertura. O pedido deve aparecer quando o recurso for usado e explicar para que o acesso é necessário.
 
-Acesso a câmera, localização e notificações depende de permissões e contexto de uso. Solicite acesso no momento em que o recurso é necessário, explique a finalidade e ofereça alternativa se recusado.
+## Permissões e alternativas
 
-## Desenvolvimento e prática
+Antes de usar um recurso, o app precisa conferir se a permissão foi concedida e se o aparelho consegue fornecer o recurso. Se o acesso for negado ou revogado depois, devo tratar a situação sem fechar o aplicativo de forma inesperada. Também posso oferecer uma alternativa quando ela fizer sentido.
 
-Use APIs Android apropriadas e verifique disponibilidade/permissão antes de acessar recurso. Trate negação e revogação. Colete apenas dados necessários. Use HTTPS, valide dados no servidor e armazene credenciais com mecanismos adequados à plataforma; não grave tokens em logs.
+## Proteção de dados
 
-Segurança também envolve componentes exportados, intents, backup e dependências. A autorização real deve ser verificada no servidor; esconder botão não protege endpoint.
+Anotei alguns cuidados: coletar apenas os dados necessários; usar conexões seguras; não escrever tokens, senhas ou informações pessoais em logs; e armazenar credenciais com recursos adequados à plataforma. O servidor também precisa validar os dados recebidos e decidir se a pessoa pode executar determinada ação.
 
-**Exercícios:** mapeie permissões de um app de câmera; defina fallback após recusa; identifique dados que não devem aparecer em log.
+Esconder um botão na interface não protege a operação por trás dele. Se existe um endpoint remoto, a autorização precisa ser verificada no servidor. Segurança também envolve componentes exportados, intents, backup e dependências do projeto.
+
+## Exercícios para pensar
+
+1. Para um aplicativo de câmera, indicar em que momento pedir a permissão e o que fazer se ela for negada.
+2. Identificar quais informações não devem aparecer nos logs.
+3. Explicar por que ocultar um botão administrativo não substitui uma verificação no servidor.
+4. Rever cada permissão do projeto e perguntar se ela é realmente necessária.
