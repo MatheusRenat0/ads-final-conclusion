@@ -1,6 +1,8 @@
 # Resumo da Aula 02 — Modelo ITIL 4 e Sistema de Valor de Serviço
 
-ITSM é a disciplina de gestão de serviços; ITIL é um framework de boas práticas que pode apoiar essa gestão. O SVS integra princípios orientadores, governança, cadeia de valor, práticas e melhoria contínua para transformar demanda em valor. Princípios como foco em valor e progresso iterativo com feedback conectam-se a abordagens ágeis sem tornar ITIL um método ágil.
+Para não misturar conceitos, registrei que ITSM é a gestão de serviços e ITIL é um framework que pode ajudar a organizar essa gestão. O Sistema de Valor de Serviço (SVS) relaciona princípios orientadores, governança, cadeia de valor, práticas e melhoria contínua. A ideia é entender como essas partes trabalham juntas para transformar uma demanda em valor.
+
+Os princípios incluem focar no valor, começar da situação atual, avançar em etapas com feedback, colaborar, pensar no todo, manter o que é simples e automatizar com critério. Vejo pontos em comum com abordagens ágeis, mas ITIL não é sinônimo de Scrum nem um método ágil.
 
 ## Material de origem
 

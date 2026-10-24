@@ -1,6 +1,8 @@
-# Anotações — Serviços de TI, valor e gerenciamento
+# Minhas anotações — Serviços de TI, valor e gerenciamento
 
-> Material organizado a partir dos slides/documento da aula fornecidos.
+> Organizei estas anotações a partir dos slides e do documento da aula.
+
+O que anotei como ponto de partida é que o valor de um serviço depende do resultado que ajuda a alcançar. Um sistema pode funcionar tecnicamente e ainda assim não resolver a necessidade de quem o utiliza; por isso, preciso olhar para o serviço e para a experiência completa.
 
 ## Produto e serviço
 

@@ -1,6 +1,8 @@
-# Anotações — Modelo ITIL 4 e Sistema de Valor de Serviço
+# Minhas anotações — Modelo ITIL 4 e Sistema de Valor de Serviço
 
-> Material organizado a partir dos slides/documento da aula fornecidos.
+> Organizei estas anotações a partir dos slides e do documento da aula.
+
+Para não confundir os termos, estou anotando que ITSM é a gestão de serviços e ITIL é um framework que pode apoiar esse trabalho. O SVS me ajuda a visualizar como diferentes partes da organização se conectam para transformar uma demanda em valor.
 
 ## ITSM e ITIL
 

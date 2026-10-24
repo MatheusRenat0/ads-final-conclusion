@@ -1,6 +1,8 @@
-# Anotações — Aplicação prática de ITIL 4 ao PIM
+# Minhas anotações — Aplicação prática de ITIL 4 ao PIM
 
-> Material organizado a partir dos slides/documento da aula fornecidos.
+> Organizei estas anotações a partir dos slides e do documento da aula.
+
+Nesta atividade estou relacionando os conceitos do ITIL 4 ao PIM. A parte importante é explicar como o serviço ajuda a alcançar um resultado e justificar as propostas com o contexto do projeto, em vez de apenas citar nomes de práticas.
 
 ## Objetivo da atividade
 

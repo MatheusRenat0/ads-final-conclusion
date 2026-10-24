@@ -1,6 +1,8 @@
 # Resumo da Aula 03 — Cadeia de Valor de Serviço do ITIL 4
 
-A Cadeia de Valor tem seis atividades combináveis: Plan, Improve, Engage, Design & Transition, Obtain/Build e Deliver & Support. Um fluxo de valor usa as atividades necessárias para um resultado, sem uma ordem fixa. Avalie filas, gargalos, retrabalho, handoffs e métricas antes de automatizar.
+Anotei as seis atividades da Cadeia de Valor de Serviço: Plan, Improve, Engage, Design & Transition, Obtain/Build e Deliver & Support. Elas podem ser combinadas de acordo com a demanda; um fluxo de valor não precisa seguir uma ordem única.
+
+Ao analisar um serviço, quero observar onde há espera, gargalo, retrabalho ou perda de informação na passagem entre equipes. Métricas de tempo, qualidade e resultado ajudam a localizar problemas, desde que eu saiba que decisão cada uma deve apoiar. Antes de automatizar, faz sentido simplificar o fluxo e conferir se a mudança melhora o serviço como um todo.
 
 ## Material de origem
 

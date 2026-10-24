@@ -1,6 +1,8 @@
 # Resumo da Aula 01 — Serviços de TI, valor e gerenciamento
 
-Um serviço de TI combina recursos e capacidades para ajudar pessoas a alcançar resultados. Analise stakeholders, valor, utilidade e garantia. Métricas técnicas precisam ser relacionadas a impactos para usuários e negócio. O Canvas do Serviço organiza usuário, resultado, utilidade, garantia, custo, risco e métrica.
+O que anotei desta aula é que um serviço de TI combina recursos e capacidades para ajudar alguém a alcançar um resultado. Produto e serviço se relacionam, mas não são a mesma coisa: o aplicativo pode ser o produto, enquanto o serviço inclui a experiência e o apoio necessários para concluir uma tarefa.
+
+Para avaliar valor, preciso entender quem usa, quem paga e quem é afetado. Utilidade descreve o que o serviço permite fazer; garantia considera se ele funciona com disponibilidade, capacidade, continuidade, segurança e desempenho adequados. Métricas técnicas fazem mais sentido quando consigo ligá-las a um resultado para usuários ou para o negócio. O Canvas organiza esses pontos.
 
 ## Material de origem
 

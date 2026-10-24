@@ -1,4 +1,6 @@
-# Anotações de referência — Fundamentos da Agilidade, Scrum e Kanban
+# Minhas anotações de referência — Fundamentos da Agilidade, Scrum e Kanban
+
+Ao rever estes fundamentos, entendi que trabalhar de forma ágil significa aprender com entregas e feedback e ajustar prioridades. Scrum e Kanban ajudam a organizar o trabalho de maneiras diferentes; não são apenas nomes para reuniões ou quadros.
 
 ## 1. O que significa gerenciar um projeto de forma ágil
 

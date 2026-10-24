@@ -1,6 +1,8 @@
-# Anotações — Cadeia de Valor de Serviço do ITIL 4
+# Minhas anotações — Cadeia de Valor de Serviço do ITIL 4
 
-> Material organizado a partir dos slides/documento da aula fornecidos.
+> Organizei estas anotações a partir dos slides e do documento da aula.
+
+Minha forma de resumir esta parte é pensar que a cadeia de valor oferece atividades que podem ser combinadas de acordo com a demanda. Não é uma sequência fixa: o fluxo precisa fazer sentido para o resultado e para as pessoas envolvidas.
 
 ## Cadeia de Valor e fluxo de valor
 

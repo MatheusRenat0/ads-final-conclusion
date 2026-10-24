@@ -1,6 +1,8 @@
 # Resumo da Aula 05 — Engenharia de Software com apoio de prompts
 
-O roteiro encadeia dez usos de prompts: revisar especificação funcional, consolidar requisitos, propor arquitetura, detalhar solução, planejar testes, organizar incrementos, implementar, verificar, validar/implantar e planejar manutenção. Cada etapa usa documentos versionados e saídas revisadas; IA apoia o trabalho, mas não substitui decisões, testes ou aceite humanos.
+Nesta aula entendi o prompt como uma forma de orientar uma ferramenta durante etapas do trabalho de software. O roteiro passa pela especificação e consolidação de requisitos, arquitetura, detalhamento, testes, organização de incrementos, implementação, verificação, validação, implantação e manutenção.
+
+Um pedido precisa dar contexto, objetivo, restrições e formato esperado. As respostas e documentos devem ser revisados e versionados para que as decisões continuem rastreáveis. A ferramenta pode ajudar a produzir ou organizar trabalho, mas a equipe continua responsável por validar requisitos, código, testes e aceite.
 
 ## Material de origem
 

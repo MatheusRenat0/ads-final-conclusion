@@ -1,6 +1,8 @@
-# Anotações — Engenharia de Software com apoio de prompts
+# Minhas anotações — Engenharia de Software com apoio de prompts
 
-> Material organizado a partir dos slides/documento da aula fornecidos.
+> Organizei estas anotações a partir dos slides e do documento da aula.
+
+O uso de prompts entra como apoio ao trabalho de engenharia, não como substituto para entender o problema e conferir o resultado. Um pedido melhor descreve o contexto, o objetivo, as restrições e o formato que espero; depois ainda preciso revisar e validar o que foi produzido.
 
 ## Como usar prompts no ciclo de software
 
