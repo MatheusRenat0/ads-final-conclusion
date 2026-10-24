@@ -1,4 +1,6 @@
-# Anotações — Planejamento operacional, financeiro, marketing e legalização
+# Minhas anotações — Planejamento operacional, financeiro, marketing e legalização
+
+Nesta unidade, estou relacionando a ideia do negócio com o que será necessário para colocá-la em prática: operação, equipe, dinheiro, divulgação e formalização. O plano precisa ser coerente entre essas partes; previsão de vendas, capacidade de entrega e custos não podem ser pensados isoladamente.
 
 ## Planejamento operacional
 

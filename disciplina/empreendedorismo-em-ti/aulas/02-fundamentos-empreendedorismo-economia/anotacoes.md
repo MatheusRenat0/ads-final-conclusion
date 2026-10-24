@@ -1,4 +1,6 @@
-# Anotações — Empreendedorismo, economia e sustentabilidade
+# Minhas anotações — Empreendedorismo, economia e sustentabilidade
+
+O que quero lembrar desta unidade é que uma ideia só vira oportunidade quando existe uma necessidade que consigo compreender e uma forma plausível de atendê-la. Preciso olhar também para custos, mercado e impactos sociais e ambientais, e não apenas para a tecnologia.
 
 ## Conceito e perfil empreendedor
 

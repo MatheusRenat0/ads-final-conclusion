@@ -1,4 +1,6 @@
-# Anotações — Plano de negócios, oportunidades, produtos e serviços
+# Minhas anotações — Plano de negócios, oportunidades, produtos e serviços
+
+Estou pensando no plano de negócios como uma forma de organizar hipóteses e decisões para avaliar se uma proposta pode funcionar. Ele precisa ser revisado quando descubro algo novo sobre clientes, concorrentes, custos ou operação.
 
 ## Plano de negócios
 

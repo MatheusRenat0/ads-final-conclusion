@@ -1,8 +1,8 @@
 # Resumo — Unidade 03: Plano de negócios, oportunidades, produtos e serviços
 
-Fundamentos, estrutura e elaboração do plano de negócios; identificação e validação de oportunidades; desenvolvimento de produtos e serviços.
+O que entendi nesta unidade é que o plano de negócios reúne informações para avaliar e conduzir um empreendimento. Ele ajuda a organizar objetivos, público, proposta de valor, operação e recursos, mas não elimina os riscos nem garante que a ideia dará certo.
 
-O plano de negócios organiza objetivos, caminhos, recursos e informações para avaliar e conduzir um empreendimento. Sua finalidade é apoiar planejamento e decisões e reduzir incertezas. Deve ser atualizado quando hipóteses, mercado ou operação mudarem; não garante sucesso nem é documento imutável.
+Uma oportunidade precisa ser validada com evidências: quem tem a necessidade, como resolve hoje e se usaria ou pagaria pela solução. Produto e serviço devem ser pensados a partir desse problema. Como o mercado pode mudar e as hipóteses podem ser revistas, o plano também precisa ser atualizado.
 
 ## Material de origem
 
