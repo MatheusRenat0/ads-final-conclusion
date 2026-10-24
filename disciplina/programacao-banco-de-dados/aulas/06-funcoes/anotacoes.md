@@ -1,4 +1,4 @@
-# Minhas anotações — Funções
+# Minhas anotações: Funções
 
 Nesta parte estou separando função de procedure: a função devolve um valor que posso usar numa expressão SQL. Também preciso declarar corretamente o tipo de retorno e as características da função, de acordo com o que ela realmente faz.
 
@@ -26,7 +26,7 @@ Uma function é adequada para produzir um valor em uma expressão. Procedure é 
 
 ## Privilégios e limitações
 
-Criação e execução dependem de privilégios e configuração de binlog do servidor. Funções chamadas em consultas podem ser avaliadas muitas vezes, uma por linha, então evite lógica custosa. Não prometa que a função sempre será executada uma única vez.
+Criação e execução dependem de privilégios e configuração de binlog do servidor. Funções chamadas em consultas podem rodar muitas vezes, uma por linha, então evite lógica custosa. Não prometa que a função sempre será executada uma única vez.
 
 ## Exercícios
 

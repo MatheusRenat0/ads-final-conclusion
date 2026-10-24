@@ -1,4 +1,4 @@
-# Minhas anotações — Restrições e junções
+# Minhas anotações: Restrições e junções
 
 O que ficou mais claro nesta aula é que as regras dos dados devem estar protegidas no próprio banco. Assim, uma tabela não depende apenas de cada tela ou aplicação lembrar de validar tudo. As junções completam essa ideia ao permitir consultar informações relacionadas que ficam em tabelas diferentes.
 

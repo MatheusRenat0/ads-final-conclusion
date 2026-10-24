@@ -1,4 +1,4 @@
-# Minhas anotações — Revisão de SQL
+# Minhas anotações: Revisão de SQL
 
 Nesta aula revisei comandos que já tinha visto e organizei a diferença entre definir a estrutura do banco e manipular os registros. Quero praticar as consultas com uma base pequena para entender o resultado, não só decorar a sintaxe.
 

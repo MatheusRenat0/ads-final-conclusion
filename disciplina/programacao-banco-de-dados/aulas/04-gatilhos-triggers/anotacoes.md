@@ -1,4 +1,4 @@
-# Minhas anotações — Gatilhos (Triggers)
+# Minhas anotações: Gatilhos (Triggers)
 
 O principal para mim foi entender que o trigger acontece automaticamente quando ocorre uma operação na tabela. Isso pode garantir uma regra mesmo quando a alteração vem de outro lugar, mas também deixa efeitos menos visíveis; por isso, preciso manter a lógica curta e documentada.
 

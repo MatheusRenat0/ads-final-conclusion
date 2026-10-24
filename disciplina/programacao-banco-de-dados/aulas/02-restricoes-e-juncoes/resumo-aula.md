@@ -1,4 +1,4 @@
-# Resumo da Aula 02 — Restrições e Junções
+# Resumo da Aula 02: Restrições e Junções
 
 > **Nota de escopo:** o plano lista visões, gatilhos, procedures e funções como conteúdos da disciplina, mas os materiais disponíveis não confirmam que tenham sido abordados nesta aula. Eles não são tratados aqui como conteúdo ministrado.
 
@@ -117,7 +117,7 @@ Nesse caso, o status padrão será `Ativo`.
 
 ---
 
-# 3. Junções — JOIN
+# 3. Junções: JOIN
 
 Uma junção (`JOIN`) é utilizada para combinar dados provenientes de diferentes tabelas.
 
@@ -131,8 +131,8 @@ Durante a aula foram apresentados:
 
 O conceito foi relacionado ao uso de:
 
-* **PK — Primary Key**
-* **FK — Foreign Key**
+* **PK: Primary Key**
+* **FK: Foreign Key**
 
 ---
 

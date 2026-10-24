@@ -1,4 +1,4 @@
-# Resumo — Funções
+# Resumo: Funções
 
 O ponto principal que anotei é que uma stored function devolve um valor e pode aparecer numa expressão SQL. Na definição declaro o tipo com `RETURNS` e retorno o resultado com `RETURN`. Características como `DETERMINISTIC` e `NO SQL` precisam corresponder ao comportamento real da rotina.
 

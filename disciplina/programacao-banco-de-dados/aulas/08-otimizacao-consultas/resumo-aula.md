@@ -1,4 +1,4 @@
-# Resumo — Otimização de consultas
+# Resumo: Otimização de consultas
 
 Aprendi que não devo adicionar índices ou reescrever consultas sem antes entender o plano de execução. `EXPLAIN` mostra como o MySQL pretende executar a consulta; `EXPLAIN ANALYZE` também executa de fato, então preciso usá-lo com atenção.
 

@@ -1,4 +1,4 @@
-# Minhas anotações — Otimização de consultas
+# Minhas anotações: Otimização de consultas
 
 Para otimizar, primeiro preciso descobrir onde está o custo. O plano do `EXPLAIN` ajuda a entender como o MySQL pretende executar a consulta; depois posso testar mudanças, como um índice, e comparar os resultados com dados representativos.
 

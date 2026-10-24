@@ -1,4 +1,4 @@
-# 📚 Plano de Ensino
+# Plano de Ensino
 
 ## Professor
 

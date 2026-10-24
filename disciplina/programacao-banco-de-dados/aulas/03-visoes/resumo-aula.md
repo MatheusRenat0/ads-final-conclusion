@@ -1,4 +1,4 @@
-# Resumo — Visões (Views)
+# Resumo: Visões (Views)
 
 O que guardei desta aula é que uma view dá um nome a uma consulta que posso reutilizar. Com `CREATE VIEW`, posso deixar mais simples uma consulta recorrente ou expor apenas as colunas necessárias. Na maioria dos casos, a view guarda a definição da consulta, não uma cópia dos resultados.
 

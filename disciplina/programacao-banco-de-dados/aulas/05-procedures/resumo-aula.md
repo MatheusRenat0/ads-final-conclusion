@@ -1,4 +1,4 @@
-# Resumo — Procedures
+# Resumo: Procedures
 
 Uma procedure agrupa instruções que posso chamar explicitamente com `CALL`. Os parâmetros podem trazer valores para a rotina (`IN`), devolver resultados (`OUT`) ou fazer as duas coisas (`INOUT`). Também posso guardar o resultado de uma consulta em uma variável com `SELECT ... INTO`.
 

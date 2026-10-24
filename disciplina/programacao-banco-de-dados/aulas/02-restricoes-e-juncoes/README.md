@@ -1,4 +1,4 @@
-# Aula 02 — Restrições e Junções
+# Aula 02: Restrições e Junções
 
 > **Disciplina:** Programação de Banco de Dados
 > **Professor:** Arthur

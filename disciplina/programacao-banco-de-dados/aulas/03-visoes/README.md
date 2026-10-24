@@ -1,4 +1,4 @@
-# Aula 03 — Visões (Views)
+# Aula 03: Visões (Views)
 
 ## Objetivo
 
@@ -6,8 +6,8 @@ Uma visão é uma consulta armazenada que apresenta dados derivados de uma ou ma
 
 ## Arquivos
 
-- [Anotações](./anotacoes.md) — explicações, exemplos e exercícios.
-- [Resumo](./resumo-aula.md) — síntese para revisão.
-- [Exemplos SQL](./exemplos.sql) — referência para MySQL Workbench.
+- [Anotações](./anotacoes.md): explicações, exemplos e exercícios.
+- [Resumo](./resumo-aula.md): síntese para revisão.
+- [Exemplos SQL](./exemplos.sql): referência para MySQL Workbench.
 
 > Exemplos didáticos para MySQL. Revise esquema, versão e privilégios antes de executá-los em outro ambiente.

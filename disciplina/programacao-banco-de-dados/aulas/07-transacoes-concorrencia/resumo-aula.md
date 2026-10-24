@@ -1,4 +1,4 @@
-# Resumo — Transações e concorrência
+# Resumo: Transações e concorrência
 
 Uma transação permite tratar várias instruções como uma unidade de trabalho. No exemplo de transferência, retiro o valor de uma conta e acrescento na outra; se uma das etapas falha, preciso desfazer para não deixar o banco num estado incompleto. No MySQL, essas garantias dependem de tabelas transacionais, como InnoDB.
 

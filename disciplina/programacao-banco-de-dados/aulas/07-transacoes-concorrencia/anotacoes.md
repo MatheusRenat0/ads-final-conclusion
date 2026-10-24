@@ -1,4 +1,4 @@
-# Minhas anotações — Transações e concorrência
+# Minhas anotações: Transações e concorrência
 
 O exemplo de transferência entre contas ajuda a entender por que duas alterações relacionadas devem ser tratadas como uma unidade: ou as duas são confirmadas ou a operação é desfeita. Para isso, estou relacionando ACID com o uso de transações e com os problemas que podem acontecer quando várias sessões acessam os mesmos dados.
 

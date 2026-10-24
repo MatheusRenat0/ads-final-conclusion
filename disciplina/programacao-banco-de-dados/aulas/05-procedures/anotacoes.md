@@ -1,4 +1,4 @@
-# Minhas anotações — Procedures
+# Minhas anotações: Procedures
 
 Uma procedure é uma rotina que chamo explicitamente quando quero executar um conjunto de instruções no banco. Estou revisando a diferença entre parâmetros de entrada e de saída e lembrando que uma rotina não fica automaticamente mais rápida só por estar no servidor.
 

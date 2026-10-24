@@ -1,4 +1,4 @@
-# Aula 06 — Funções
+# Aula 06: Funções
 
 ## Objetivo
 
@@ -6,8 +6,8 @@ Uma stored function recebe parâmetros e retorna um único valor por meio de RET
 
 ## Arquivos
 
-- [Anotações](./anotacoes.md) — explicações, exemplos e exercícios.
-- [Resumo](./resumo-aula.md) — síntese para revisão.
-- [Exemplos SQL](./exemplos.sql) — referência para MySQL Workbench.
+- [Anotações](./anotacoes.md): explicações, exemplos e exercícios.
+- [Resumo](./resumo-aula.md): síntese para revisão.
+- [Exemplos SQL](./exemplos.sql): referência para MySQL Workbench.
 
 > Exemplos didáticos para MySQL. Revise esquema, versão e privilégios antes de executá-los em outro ambiente.

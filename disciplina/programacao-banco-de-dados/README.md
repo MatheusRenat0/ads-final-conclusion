@@ -55,7 +55,7 @@ A disciplina está organizada em aulas conforme os tópicos do plano de ensino.
 | Tópico do plano | Material |
 |---|---|
 | Introdução / Revisão SQL | [Aula 01](./aulas/01-introducao-revisao-sql/README.md) |
-| Visões e Junções / Restrições | [Aula 02 — Restrições e Junções](./aulas/02-restricoes-e-juncoes/README.md) |
+| Visões e Junções / Restrições | [Aula 02: Restrições e Junções](./aulas/02-restricoes-e-juncoes/README.md) |
 | Visões (Views) | [Aula](./aulas/03-visoes/README.md) |
 | Gatilhos (Triggers) | [Aula](./aulas/04-gatilhos-triggers/README.md) |
 | Procedures | [Aula](./aulas/05-procedures/README.md) |

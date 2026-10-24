@@ -1,4 +1,4 @@
-# Aula 01 — Introdução e Revisão SQL
+# Aula 01: Introdução e Revisão SQL
 
 > **Data:** 04/08/2026
 
