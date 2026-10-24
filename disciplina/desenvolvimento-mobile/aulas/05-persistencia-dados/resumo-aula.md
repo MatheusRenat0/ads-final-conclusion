@@ -1,4 +1,4 @@
-# Resumo — Persistência de dados
+# Resumo: Persistência de dados
 
 Persistir dados significa manter informações disponíveis mesmo depois de fechar o aplicativo. Antes de escolher onde guardar algo, preciso perguntar que tipo de dado é, como será consultado e se pode ser reconstruído.
 

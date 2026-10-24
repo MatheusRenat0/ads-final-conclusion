@@ -1,4 +1,4 @@
-# Resumo da aula 01 — Introdução ao desenvolvimento mobile
+# Resumo da aula 01: Introdução ao desenvolvimento mobile
 
 Nesta primeira aula conheci a proposta da disciplina e fizemos uma revisão de conceitos que vão aparecer durante o desenvolvimento de aplicativos. O foco será Android, com Kotlin e Android Studio. Ao longo do curso, os conteúdos devem se conectar: primeiro entendemos a lógica e o ambiente; depois construímos interfaces, organizamos dados, conectamos serviços e pensamos em segurança, testes e publicação.
 

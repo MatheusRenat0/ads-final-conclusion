@@ -1,4 +1,4 @@
-# Minhas anotações — Navegação entre telas
+# Minhas anotações: Navegação entre telas
 
 Estou pensando na navegação como um fluxo: quais telas existem, como a pessoa chega a cada uma e para onde volta. A pilha de retorno guarda o caminho de telas visitadas. Preciso decidir se, ao voltar de um detalhe, a lista continua no mesmo lugar ou é carregada de novo.
 

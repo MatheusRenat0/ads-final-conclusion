@@ -1,4 +1,4 @@
-# Minhas anotações — Testes e publicação
+# Minhas anotações: Testes e publicação
 
 Testar é verificar se o aplicativo se comporta como espero em situações normais e também quando recebe dados inesperados. Não basta conferir que a tela abre; preciso conferir as regras, a integração e os fluxos que a pessoa percorre.
 

@@ -1,4 +1,4 @@
-# Minhas anotações — Interfaces e componentes Android
+# Minhas anotações: Interfaces e componentes Android
 
 Entendi a interface como a parte do aplicativo que mostra o estado atual e recebe as ações de quem está usando. Uma tela não é só um conjunto de botões: ela também precisa explicar o que está acontecendo quando os dados carregam, quando não há resultado ou quando algo dá errado.
 

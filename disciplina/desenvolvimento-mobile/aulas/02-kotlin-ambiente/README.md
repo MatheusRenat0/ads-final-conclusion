@@ -1,4 +1,4 @@
-# Aula 02 — Kotlin e ambiente Android
+# Aula 02: Kotlin e ambiente Android
 
 ## Escopo
 
@@ -6,6 +6,6 @@ Fundamentos de programação, algoritmos, Kotlin e estrutura de um projeto Andro
 
 ## Arquivos
 
-- [Anotações](./anotacoes.md) — conceitos, práticas e exercícios.
-- [Resumo](./resumo-aula.md) — revisão concisa.
-- [Exemplo Kotlin](./exemplos.kt) — fragmento ilustrativo, pode exigir dependências/configuração.
+- [Anotações](./anotacoes.md): conceitos, práticas e exercícios.
+- [Resumo](./resumo-aula.md): revisão concisa.
+- [Exemplo Kotlin](./exemplos.kt): fragmento ilustrativo, pode exigir dependências/configuração.

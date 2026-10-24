@@ -32,13 +32,9 @@ A disciplina será conduzida por meio de:
 
 ---
 
-## Avaliação
+## Livros indicados
 
-A avaliação será realizada conforme os critérios estabelecidos pela docente ao longo do semestre, considerando atividades práticas, projetos e avaliações previstas no plano da disciplina.
-
----
-
-## Bibliografia Básica
+### Básicos
 
 - BURTON, Michael; FELKER, Donn. **Desenvolvimento de Apps Android para Leigos**.
 - DAMIANI, E. B. **Programação de Jogos Android**. São Paulo: Novatec, 2016.
@@ -46,7 +42,7 @@ A avaliação será realizada conforme os critérios estabelecidos pela docente 
 
 ---
 
-## Bibliografia Complementar
+### Complementares
 
 - ANSELMO, F. **Android em 50 Projetos**. São Paulo: Visual Books, 2012.
 - DEITEL, H.; DEITEL, P. **Android: Como Programar**. Porto Alegre: Bookman.

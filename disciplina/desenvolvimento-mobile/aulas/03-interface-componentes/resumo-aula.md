@@ -1,4 +1,4 @@
-# Resumo — Interfaces e componentes Android
+# Resumo: Interfaces e componentes Android
 
 A interface apresenta informações e permite interagir com o aplicativo. Para montar uma tela, organizamos componentes como texto, imagens, campos e botões. Além de mostrar o caminho normal, preciso prever como a tela fica enquanto carrega, quando não encontra dados e quando ocorre um erro.
 

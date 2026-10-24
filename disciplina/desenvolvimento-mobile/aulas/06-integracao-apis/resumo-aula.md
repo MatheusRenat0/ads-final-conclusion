@@ -1,4 +1,4 @@
-# Resumo — Integração com APIs
+# Resumo: Integração com APIs
 
 Uma API permite que o aplicativo troque informações com um serviço remoto. Essa comunicação depende de rede e pode falhar por falta de conexão, demora, autenticação, resposta do servidor ou formato inesperado. Por isso, a tela deve mostrar claramente quando está carregando, quando recebeu dados, quando não há resultados e quando aconteceu um erro.
 

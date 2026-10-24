@@ -1,4 +1,4 @@
-# Resumo — Testes e publicação
+# Resumo: Testes e publicação
 
 Testar ajuda a encontrar problemas antes que cheguem a quem usa o aplicativo. Testes unitários verificam regras isoladas; testes instrumentados executam código Android no dispositivo ou emulador; testes de interface conferem os fluxos que a pessoa consegue observar. Bons testes cobrem também entradas inválidas e situações de erro.
 

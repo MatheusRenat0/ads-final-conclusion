@@ -1,4 +1,4 @@
-# Minhas anotações — Kotlin e ambiente Android
+# Minhas anotações: Kotlin e ambiente Android
 
 Nesta aula estou juntando a revisão de lógica com os primeiros elementos de Kotlin e a estrutura do ambiente. O ponto principal para mim é não misturar tudo em uma tela: as regras devem poder ser entendidas e testadas separadamente.
 

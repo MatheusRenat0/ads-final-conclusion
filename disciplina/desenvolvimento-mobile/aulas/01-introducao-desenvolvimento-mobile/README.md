@@ -1,4 +1,4 @@
-# Aula 01 — Introdução ao Desenvolvimento Mobile
+# Aula 01: Introdução ao Desenvolvimento Mobile
 
 > **Data:** 05/08/2026
 
@@ -23,7 +23,7 @@ Nesta primeira aula foram abordados os seguintes temas:
 - Arquitetura de aplicações
 - Linguagem Kotlin
 - Android Studio
-- Bibliografia da disciplina
+- Livros indicados para a disciplina
 
 ---
 

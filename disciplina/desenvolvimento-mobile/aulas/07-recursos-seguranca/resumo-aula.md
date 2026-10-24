@@ -1,4 +1,4 @@
-# Resumo — Recursos do dispositivo e segurança
+# Resumo: Recursos do dispositivo e segurança
 
 Câmera, localização e notificações só devem ser usadas quando fazem parte de uma necessidade clara do aplicativo. O pedido de permissão faz mais sentido no momento em que a pessoa tenta usar o recurso, acompanhado de uma explicação. Se a permissão for recusada ou revogada depois, o aplicativo precisa continuar tratando esse caso com uma alternativa adequada.
 

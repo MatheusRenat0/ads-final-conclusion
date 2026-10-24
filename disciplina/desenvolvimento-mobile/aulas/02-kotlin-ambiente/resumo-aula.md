@@ -1,4 +1,4 @@
-# Resumo — Kotlin e ambiente Android
+# Resumo: Kotlin e ambiente Android
 
 Nesta aula revi como transformar um problema em passos claros e comecei a relacionar essa lógica com Kotlin. Uma função deve ter uma responsabilidade compreensível, receber os dados de que precisa e devolver um resultado definido. Validar entradas evita que valores inesperados produzam resultados incorretos.
 

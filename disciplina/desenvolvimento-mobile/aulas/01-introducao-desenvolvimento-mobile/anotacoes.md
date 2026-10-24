@@ -1,4 +1,4 @@
-# Minhas anotações — Introdução ao desenvolvimento mobile
+# Minhas anotações: Introdução ao desenvolvimento mobile
 
 Nesta aula comecei a organizar o que vamos estudar na disciplina. O foco será criar aplicativos para dispositivos móveis, principalmente para Android, usando Kotlin e Android Studio. A ideia é acompanhar o caminho desde os conceitos básicos até testar e preparar um aplicativo para publicação.
 
@@ -11,7 +11,7 @@ Antes de programar, preciso entender o problema e descrever uma sequência de pa
 ## Tipos de aplicativo
 
 - **Nativo:** feito para uma plataforma específica. No Android, podemos usar Kotlin ou Java. A integração com os recursos do aparelho costuma ser direta, mas manter versões diferentes para Android e iOS pode exigir mais trabalho.
-- **Híbrido:** combina tecnologias web com uma estrutura que permite distribuir o aplicativo em plataformas móveis. A escolha pode facilitar o reaproveitamento de código, mas precisa ser avaliada conforme desempenho e recursos necessários.
+- **Híbrido:** combina tecnologias web com uma estrutura que permite distribuir o aplicativo em plataformas móveis. A escolha pode facilitar o reaproveitamento de código, mas precisa considerar o desempenho e os recursos necessários.
 - **Multiplataforma:** permite compartilhar parte do código entre plataformas. Flutter e React Native são exemplos de tecnologias dessa categoria; isso não significa que todo aplicativo terá exatamente a mesma experiência ou implementação em cada sistema.
 
 Essas categorias têm diferenças e não existe uma escolha melhor para todos os casos. É preciso considerar a equipe, o prazo, o público, o desempenho esperado e os recursos do aparelho que o projeto vai usar.

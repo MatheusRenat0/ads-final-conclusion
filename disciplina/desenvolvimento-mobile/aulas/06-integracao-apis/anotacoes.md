@@ -1,4 +1,4 @@
-# Minhas anotações — Integração com APIs
+# Minhas anotações: Integração com APIs
 
 Uma API é uma forma combinada de trocar dados com outro sistema. No aplicativo, isso normalmente envolve enviar uma requisição HTTP, receber uma resposta e transformar os dados para exibição. Como a rede pode falhar ou demorar, a tela precisa mostrar o que está acontecendo em vez de parecer travada.
 

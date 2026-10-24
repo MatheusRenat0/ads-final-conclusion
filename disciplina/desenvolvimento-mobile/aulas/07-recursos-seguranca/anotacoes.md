@@ -1,4 +1,4 @@
-# Minhas anotações — Recursos do dispositivo e segurança
+# Minhas anotações: Recursos do dispositivo e segurança
 
 Câmera, localização e notificações dão mais possibilidades ao aplicativo, mas também envolvem dados e decisões da pessoa. Não faz sentido pedir todas as permissões logo na primeira abertura. O pedido deve aparecer quando o recurso for usado e explicar para que o acesso é necessário.
 

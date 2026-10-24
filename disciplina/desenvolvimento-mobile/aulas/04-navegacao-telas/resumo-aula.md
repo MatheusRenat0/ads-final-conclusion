@@ -1,4 +1,4 @@
-# Resumo — Navegação entre telas
+# Resumo: Navegação entre telas
 
 Aprendi a pensar na navegação como o fluxo que conecta uma tela à outra e mantém o histórico necessário para voltar. Num fluxo de catálogo, por exemplo, a pessoa sai da lista, abre os detalhes de um item e pode retornar à lista sem perder a referência do caminho.
 

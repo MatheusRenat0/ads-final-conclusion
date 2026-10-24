@@ -1,4 +1,4 @@
-# Minhas anotações — Persistência de dados
+# Minhas anotações: Persistência de dados
 
 Persistência é o que permite que certas informações continuem disponíveis depois que eu fecho o aplicativo. Antes de escolher onde guardar algo, preciso saber se o dado é pequeno e simples, se precisa de consultas e relações ou se é um arquivo.
 
