@@ -12,7 +12,7 @@ Material da disciplina organizado na sequência das aulas. Os arquivos de Gestã
 | [03](./aulas/03-cadeia-valor-itil4/README.md) | Cadeia de Valor de Serviço do ITIL 4 | `Aula3_ITIL4.pptx` e PDF |
 | [04](./aulas/04-aplicacao-pratica-pim-itil4/README.md) | Aplicação prática de ITIL 4 ao PIM | `Aula_Pratica_PIM_ITIL4.pptx` |
 | [05](./aulas/05-engenharia-software-prompts/README.md) | Engenharia de Software com apoio de prompts | `Prompts_Engenharia_Software_IEEE.doc` |
-| [06](./aulas/06-versionamento-git-github/README.md) | Versionamento com Git e GitHub | Aula de André Muniz, 23/10/2026 |
+| [06](./aulas/06-versionamento-git-github/README.md) | Versionamento com Git e GitHub | Aula de 23/10/2026 |
 
 ## Material de apoio
 
