@@ -1,6 +1,5 @@
 # Aula 06: Versionamento com Git e GitHub
 
-- **Professor:** André Muniz
 - **Data:** 23/10/2026
 
 ## Objetivo
@@ -13,4 +12,4 @@ Leia as [anotações](./anotacoes.md) para explicações, comandos e uma ativida
 
 ## Material da aula
 
-Aula ministrada pelo professor André Muniz em 23/10/2026. As anotações foram organizadas a partir do conteúdo informado pelo estudante.
+Anotações organizadas a partir do conteúdo da aula de 23/10/2026.

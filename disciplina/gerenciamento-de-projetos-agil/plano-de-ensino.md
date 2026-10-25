@@ -3,7 +3,6 @@
 ## Identificação
 
 - **Disciplina:** Gerenciamento de Projetos Ágil
-- **Professor e coordenador:** André Muniz
 - **Curso:** Análise e Desenvolvimento de Sistemas
 
 ## Ementa
@@ -52,5 +51,5 @@ Os materiais indicam aulas expositivas com discussão de situações-problema, e
 - COLEMAN, John et al. [The Kanban Guide](https://kanbanguides.org/portugues/). Maio de 2025.
 - AXELOS. *ITIL Foundation: ITIL 4 Edition*. London: TSO, 2019. Livro indicado nas apresentações de ITIL 4.
 - `Prompts_Engenharia_Software_IEEE.doc`. O material da aula menciona as normas ISO/IEC/IEEE 29148, 12207, 42010 e 29119-2.
-- Anotações da aula de versionamento com Git e GitHub, ministrada por André Muniz em 23/10/2026.
+- Anotações da aula de versionamento com Git e GitHub, realizada em 23/10/2026.
 - [Documentação oficial do Git](https://git-scm.com/docs) e [documentação oficial do GitHub](https://docs.github.com/en/get-started/using-git/about-git).

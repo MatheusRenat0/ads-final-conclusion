@@ -1,8 +1,6 @@
 # Gerenciamento de Projetos Ágil
 
-Material da disciplina organizado na sequência das aulas fornecidas pelo professor. Os arquivos de Gestão de Serviços de TI e ITIL 4 são conectados ao gerenciamento ágil por temas como valor, feedback, fluxo e melhoria contínua, sem tratar ITIL como método ágil.
-
-- **Professor e coordenador:** André Muniz
+Material da disciplina organizado na sequência das aulas. Os arquivos de Gestão de Serviços de TI e ITIL 4 são conectados ao gerenciamento ágil por temas como valor, feedback, fluxo e melhoria contínua, sem tratar ITIL como método ágil.
 - [Plano de ensino](./plano-de-ensino.md)
 
 ## Aulas

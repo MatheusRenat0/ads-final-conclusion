@@ -1,6 +1,6 @@
 # Minhas anotações: Versionamento com Git e GitHub
 
-**Aula do professor André Muniz: 23/10/2026**
+**Aula de 23/10/2026**
 
 O que entendi é que versionar um projeto significa registrar suas mudanças de forma organizada para conseguir acompanhar como ele evoluiu e colaborar sem depender de cópias como “trabalho-final-agora-vai”. O Git é o sistema de controle de versão; GitHub é uma plataforma onde podemos hospedar repositórios Git e colaborar por meio de branches, pull requests e revisão.
 
