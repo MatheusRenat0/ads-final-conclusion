@@ -6,12 +6,6 @@
 
 ---
 
-## Professora
-
-**Kelly Cristina**
-
----
-
 ## Objetivo
 
 Desenvolver conhecimentos teóricos e práticos sobre o desenvolvimento de aplicações para dispositivos móveis, utilizando ferramentas modernas e a linguagem Kotlin. Ao final da disciplina, o aluno deverá ser capaz de projetar, implementar, testar e publicar aplicações Android, compreendendo todas as etapas do processo de desenvolvimento.
