@@ -3,7 +3,6 @@
 ## Identificação
 
 - **Disciplina:** Empreendedorismo em TI
-- **Professor:** Prof. Me. Antônio Palmeira
 - **Curso:** Análise e Desenvolvimento de Sistemas
 
 ## Ementa

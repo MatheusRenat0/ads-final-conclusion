@@ -1,7 +1,5 @@
 # Empreendedorismo em TI
 
-> **Professor:** Prof. Me. Antônio Palmeira
-
 Aqui organizei o conteúdo de Empreendedorismo em TI em quatro unidades, seguindo a sequência das apresentações usadas em sala de aula e disponíveis no portal da faculdade.
 
 - [Plano de ensino](./plano-de-ensino.md): ementa, objetivos e conteúdo programático.
