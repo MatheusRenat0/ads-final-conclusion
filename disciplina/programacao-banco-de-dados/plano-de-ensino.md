@@ -1,11 +1,5 @@
 # Plano de Ensino
 
-## Professor
-
-**Arthur**
-
----
-
 ## Objetivo
 
 Desenvolver conhecimentos sobre programação de banco de dados, utilizando recursos avançados da linguagem SQL para criação de rotinas, controle de integridade, otimização e gerenciamento de transações.
