@@ -2,7 +2,6 @@
 
 Aqui organizei os conteúdos de Cloud Computing e DevOps em quatro aulas, desde os fundamentos da nuvem até práticas de automação e entrega contínua.
 
-- **Professora:** Profa. Dra. Jacqueline Zonichenn
 - [Plano de ensino](./plano-de-ensino.md)
 
 ## Aulas

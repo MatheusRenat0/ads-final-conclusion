@@ -3,7 +3,6 @@
 ## Identificação
 
 - **Disciplina:** Cloud Computing e DevOps
-- **Professora:** Profa. Dra. Jacqueline Zonichenn
 - **Curso:** Análise e Desenvolvimento de Sistemas
 
 ## Ementa
